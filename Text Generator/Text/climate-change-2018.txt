@@ -1,0 +1,1994 @@
+9 -3 1 7 -0 3 2
+REV: JANUARY 30, 2018
+
+REBECCA M. HENDERSON
+SOPHUS A. REINERT
+POLINA DEKHTYAR
+AMRAM MIGDAL
+
+Climate Change in 2018: Implications for Business
+[The Department of Defense] recognizes the reality of climate change and the significant risk it poses to U.S.
+interests globally. The National Security Strategy, issued in February 2015, is clear that climate change is an
+urgent and growing threat to our national security, contributing to increased natural disasters, refugee flows,
+and conflicts over basic resources such as food and water. These impacts are already occurring, and the scope,
+scale, and intensity of these impacts are projected to increase over time.
+— United States Department of Defense, July 2015 1
+The risk of large-scale climate change is one of the central issues facing the world. There is
+widespread consensus among the scientific community that the Earth is warming, that this warming
+is caused by human emissions of greenhouse gases (GHGs), and that the consequences of continued
+warming are likely to be severe. There is also global concern about the issue: in a recent Pew poll,
+majorities in all 40 nations polled said that climate change was a serious problem, and a global median
+of 54% said that it was a very serious problem.
+But there is widespread disagreement about what—if anything—should be done in response. While
+many economists believe that the benefits of reducing global emissions greatly exceed the costs, there
+is only partial agreement as to what exactly should be done, how quickly it is appropriate to act, and
+who should pay the costs. Some people, particularly in the United States, reject the scientific consensus
+altogether. Others fear that many of the proposed solutions will be expensive and inefficient, or that
+the free riding problems inherent in reducing emissions—namely, that everyone benefits while
+particular nations, firms, or individuals must bear the costs—will make it impossible to substantially
+reduce the risk of significant global climate change.
+As a result, the risks of climate change—and the costs and regulatory changes that these risks may
+drive—are emerging as central issues for the private sector. Some business leaders see climate change
+as a threat to their firms’ viability. Others see opportunity in promoting technologies that will mitigate
+the risk of climate change by reducing GHG emissions or by helping the world in adapting to its effects.
+Some are actively lobbying against government action, while others are lobbying for industry, state,
+and global carbon policies. This note attempts to summarize what is known about the causes, current
+impacts, and likely future consequences of climate change; to outline the current debate about what
+should be done; and to explore the implications for the private sector.
+
+Professors Rebecca M. Henderson and Sophus A. Reinert, Polina Dekhtyar (MBA 2016), and Case Researcher Amram Migdal (Case Research &
+Writing Group) prepared this note as the basis for class discussion.
+Copyright © 2016, 2017, 2018 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800545-7685, write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized,
+photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+An Introduction to Climate Change
+The Earth’s average temperature has been increasing since the Industrial Revolution. Between 1880
+and 2015, average global surface temperatures rose by 0.9°C (1.5°F) (Exhibit 1). 2 In 2016, the Earth
+experienced its third consecutive hottest year since recordkeeping began. 3 There is broad consensus in
+the scientific community that this warming has been largely driven by increases in atmospheric GHGs,
+particularly carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). (Emissions of GHGs are
+often measured in equivalent units of CO2 emissions, or CO2eq, by indexing the 100-year global
+warming potential of each gas to that of CO2.) 4 GHG emissions have been growing since the Industrial
+Revolution and were 60% higher in 2014 than they were in 1990 (Exhibit 2). 5 Since 1880, atmospheric
+CO2eq concentrations have risen from around 290 ppm to 430 ppm. 6
+The primary sources of year-on-year GHG emissions are the “burning of fossil fuels (coal, oil, and
+gas), with important contributions from the clearing of forests, agricultural practices, and other
+activities.” 7 Specifically, fossil fuel consumption for electricity and heat production generates about
+25% of total GHG emissions; industry 21%; transportation 14%; other energy 10%; and buildings 6%;
+while agriculture, forestry, and other land uses (AFOLU) contribute the remaining 24% of total GHG
+emissions (Exhibit 3). 8, 9 In 2016, fossil fuels provided 81% of global energy supply—a trend that is
+expected to continue (Exhibit 4). 10 Emissions vary widely across countries, and developing countries
+are predicted to drive emissions increases going forward (Exhibit 5).
+Higher levels of atmospheric GHGs raise temperatures by increasing radiative forcing, or the amount
+of energy arriving on Earth’s surface (Exhibit 6). 11 Higher GHG concentrations increase the amount of
+radiation caught by the atmosphere and redirected back toward the surface. The difference between
+the rate at which energy arrives on the Earth’s surface and the rate at which it radiates back is the net
+heating, with this heat accumulating at and below the surface of Earth’s oceans, land, and ice. Currently
+the Earth retains approximately 816 terawatts of excess heat per year, or more than 50 times the world’s
+entire energy consumption. 12, 13 Evidence of this retained heat is discernible in observations that
+document Earth’s rising surface temperatures, warming oceans, and melting ice. 14
+Nearly 200 nations have formally acknowledged in joint statements and international agreements
+that human activity is responsible for global climate change, including the national academies of Brazil,
+Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the U.S. 15 About
+97% of climate scientists agree that human activity is causing climate change. 16, 17 Some observers claim
+that climate change is not a man-made phenomenon, blaming factors such as solar cycles (variations
+in the amount of energy reaching the Earth from the sun) or volcanic activity for recent increases in
+temperature. 18 Others allege that scientists lack consensus or that global temperatures have cooled. 19
+However, variations in the sun’s radiation are small relative to surface forcing associated with GHGs,
+and the dominant 11-year cycle in solar output barely registers in global temperatures. In addition to
+the changes in ocean, ice, and surface temperatures, the pattern of warming as a function of latitude
+and elevation in the atmosphere allows for fingerprinting human-caused effects. 20 Climate skepticism,
+in the sense of raising doubt about the fundamentals of the science, is more prevalent in the U.S. than
+in other developed nations (Exhibit 7). 21 There is little debate about the reality of global warming
+beyond U.S. boundaries, even amongst conservative political parties in nations such as Sweden
+(Moderaterna), Canada (Conservative Party), the U.K. (Conservative Party), and Germany (CDU). 22
+Predicting how GHG emissions are likely to evolve and the resulting changes in Earth’s temperature
+is a complex undertaking, fraught with uncertainty. In response, the United Nations (UN)
+Environmental Program and the World Meteorological Organization created the Intergovernmental
+Panel on Climate Change (IPCC) in 1988 “to prepare, based on available scientific information,
+2
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+assessments on all aspects of climate change and its impacts, with a view of formulating realistic
+response strategies.” 23, 24 Scientists are independently nominated for participation by their own
+governments, and in 2016 over 2,000 scientists from 154 countries participated in the IPCC process. 25
+By 2016, CO2 concentrations in the atmosphere were 404 parts per million (ppm), the highest levels
+in 400,000 years and up almost 7% since 2007 (Exhibit 8). 26 The IPCC’s states that, if no additional
+efforts are taken to mitigate the effects of climate change, CO2eq concentrations are likely to increase to
+approximately 450 ppm by 2030 and between 750 ppm and 1,300 ppm by 2100. 27 If this occurs, by 2100
+the planet may experience global mean surface temperature increases of 3.7°C to 7.8°C (6.7°F to 14°F)
+compared to pre-industrial levels. 28, 29 (See Exhibit 9.)
+However, many scientists stress that such estimates are probabilistic and that temperature increases
+could be either much greater or—perhaps—smaller (Exhibit 10). Most of the uncertainty involves the
+upper estimates of possible warming, because temperature changes in response to increased radiative
+forcing are bounded near zero on the low end but are essentially unbounded on the high end. The
+reason for this asymmetric uncertainty is the presence of positive feedback loops. For example, global
+warming reduces the amount of snow and ice covering Earth’s surface. Since snow and ice reflect more
+sunlight back into space than does exposed land, this reduction further accelerates the rate of global
+warming. 30, 31 Similarly, higher temperatures are causing the melting of the permafrost that covers 24%
+of the Earth’s Northern Hemisphere. The permafrost contains an estimated 1,400 gigatons a (Gt) of
+trapped carbon, between 33 and 114 Gt of which could be released by 2100 if the rate of thawing
+continues, compared to a total of 850 Gt of carbon already in the atmosphere and anthropogenic carbon
+emissions of about 10 Gt per year. 32, 33, 34, 35
+One issue that concerns many scientists is that many of global warming’s impacts have unfolded
+significantly faster than expected. For example, in 2007 the IPCC projected that global average sea
+levels would rise 0.6 meters (2 feet) by 2100, but in 2013 the prediction was revised to as much as 0.98
+meters (3.2 feet), and then in 2016 revised again to up to 2 meters (6.6 feet). 36 Similarly, the IPCC has
+historically underestimated the pace of Arctic sea ice decline. In 2007, models predicted the first icefree Arctic summers could arrive nearly a century later, in 2100; but in 2012, the estimate was that this
+would occur in only 20 to 30 years. 37 The actual pace of sea ice decline has turned out to be far quicker,
+“exceeding the worst worst-case scenario predicted in the 2007 IPCC report.” 38 As of 2016, “[the] Arctic
+is on track to be free of sea ice this year or next for the first time in more than 100,000 years.” 39
+
+The Impacts of Climate Change
+Rising GHG concentrations are expected to have a wide range of effects, including:
+
+Rising sea levels As the world warms, sea levels rise, both because increasing temperatures
+cause ice fields to melt and because the oceans themselves are warming (and therefore expanding).
+Since around 1870, rates of global sea level rise (GSLR) have accelerated and are now about 3.5 mm
+(0.15 inches) per year. 40 By 2100, sea levels are projected to rise by up to 2 meters (6.6 feet), depending
+on GHG emissions and the effects of warming air and ocean water on ice (Exhibit 11). 41
+Two thirds of the world’s largest cities are located in low-lying coastal areas, and increasing sea
+levels could submerge the land on which an estimated 470 million to 760 million people are living. 42, 43
+A number of island nations—including 11 of the Solomon Islands—are already submerged or at risk
+
+a A Gt is 1 trillion metric tons (t), equivalent to 1,000 kilograms.
+
+3
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+of total destruction. By 2050, between 665,000 and 1.7 million people in the Pacific are expected to be
+forced to migrate due to rising sea levels, including the entire populations of islands such as Fiji, the
+Marshall Islands, and Tuvalu. 44, 45, 46 In larger countries, such as Bangladesh and the Netherlands, a
+very large proportion of the population will probably be forced to relocate (46% and over 70%,
+respectively). 47 By 2100, in the U.S. alone, barring a concerted mitigation effort, $238 billion to $507
+billion worth of coastal property will likely be below sea level. 48 Some U.S. cities, including Miami,
+Florida and Norfolk, Virginia, are in particular danger of inundation and increased flooding. 49
+
+Changing weather patterns and extreme weather Although it is difficult to link any single
+event directly to climate change, rising temperatures means that the atmosphere can hold more water
+vapor, allowing both for greater rates of rainfall and runoff when the air is saturated and for drier
+(more under-saturated) conditions otherwise. 50,51 In other words, though overall rates of evaporation
+are not changing greatly, extremes in precipitation are becoming less frequent but more intense, and
+as a result rainfall patterns are shifting across the world. 52 Since 2013, extreme drought has affected the
+Western U.S. In California, 2015 was the driest year on record, supplanting 2013; and 2014 had been
+the third-driest. 53, 54 Somalia, Kenya, and other East African countries have experienced below-average
+rainfall since the late 1990s, contributing to a 30% reduction in crop yields and famines in 2010, 2011,
+and 2016. 55, 56 There has also been an increase in the prevalence of hurricanes and other destructive
+weather events. 57 For example, in 2013 the Philippines was hit by one of the worst typhoons in recorded
+history (Typhoon Haiyan), which led to over 6,000 deaths, displaced nearly 4 million people, and
+caused billions of dollars in damages. 58
+Pressure on water and food Food production is tightly coupled with water availability. As
+recently as 2014, just 16% of the Earth’s croplands were irrigated (as opposed to rainfed), but irrigated
+lands produced 36% of global harvest. 59 As the Earth warms, the combination of shrinking glaciers,
+reduced snowpack, and increasingly erratic rainfall raises fears of shortages, particularly in the world’s
+most vulnerable regions. 60 Water shortages in Pakistan and India, for example, threaten the viability
+of agriculture in the region. 61, 62 By 2030, overall demand for water may outstrip supply by 40%. 63 And
+by the 2090s, without significant reductions in GHG emissions, the proportion of the global land
+surface in extreme drought could increase from 1% to 3% today to 30%. 64 Global food production is
+also affected by warmer temperatures, increased CO2 levels, and extreme weather events. 65 In some
+cases, increased CO2 or warmer weather may accelerate crop growth or increase yields; however, yields
+decline above an optimal temperature that varies by crop, and crops grown under high levels of CO2
+yield less of nutrients such as zinc, iron, and protein. 66 Furthermore, warmer weather allows pests,
+weeds, and parasites to thrive; extreme weather can be destructive to farmland, crops, and livestock;
+and rising sea levels can erode and salinize croplands. 67, 68
+Political and security risks Climate change has been linked to increased political instability
+worldwide. 69 When food prices rose sharply in 2007-2008, dozens of so-called “food riots” caused
+casualties in Argentina, Cameroon, Haiti, and India. 70 Both the Somalian civil war and the Syrian civil
+war have been linked to drought and famine exacerbated by climate change. 71 The U.S. military has
+suggested that climate change is “a salient national security concern,” which could redraw maps and
+spheres of engagement while compounding conflicts and resource constraints in some of the world’s
+already vulnerable countries, leading to further instability and even war. 72, 73 (See Exhibit 12 for a map
+of major disaster-related displacements in 2014.)
+Human health risks Higher temperatures increase the possibility of heat-related injury and
+death. 74 As many as 70,000 people died in the 2003 European heat wave, and more than 50,000 died in
+a 2010 heat wave in Russia. 75, 76 Thousands more have perished in increasing and increasingly severe
+heat waves in India (2015), Europe (2006), and around the world. 77 Water- and vector-borne diseases
+4
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+are also projected to increase as insects and other carriers move into higher latitudes. 78 For example,
+between 2000 and 2013, instances of Lyme disease in the U.S. doubled. 79 A warmer atmosphere also
+increases the concentrations of smog (a lung irritant), while continuing to burn fossil fuels—
+particularly coal—can lead to millions of premature deaths. The burning of coal has been linked to tens
+of thousands of premature deaths in the U.S. annually, and the World Health Organization found that,
+in 2012, 7 million people worldwide died due to air pollution (Exhibit 13). 80
+Studies conducted to quantify economically the health impacts of climate change have suggested
+that the costs are substantial. According to research conducted by the Harvard T.H. Chan School of
+Public Health, the extraction, transportation, processing, and combustion of coal in the U.S. cause
+24,000 excess lives lost annually due to lung and heart disease (evaluated at $187.5 billion per year) and
+11,000 excess lives lost annually due to high health burdens in coal-mining regions (evaluated at $74.6
+billion per year). 81 Another study conducted by the EPA found that the health impacts of fossil fuel
+electricity in the U.S. totaled between $362 billion and $887 billion per year (representing 2.5% to 6.0%
+of GDP) due to premature mortality, workdays lost, and other direct healthcare costs. 82
+
+Impact on wildlife and ecosystems Climate change also significantly affects many natural
+habitats and puts many species at higher risk of extinction in the coming century. 83 Observing that
+current extinction rates are 100 times the normal rate, some scientists predict that the Earth is headed
+for the sixth mass extinction event in its history. 84, 85 By 2100, 30% to 50% of the world’s land and marine
+animal species may be extinct. 86, 87 Climate change is also having significant effects on the oceans. Over
+the last 100 years, it has raised near-surface ocean temperatures by about 0.74° C (1.3° F) and made the
+sea significantly more acidic, likely affecting marine animals’ reproduction and survival. 88, 89, 90
+(Exhibits 14 and 15.) In some places, live coral coverage is only half of what it was in the 1960s, and
+scientists predict that the world’s coral reefs could be entirely extinct by 2050. 91, 92 As many as 1 billion
+people rely on the fish that live in coral reefs as their primary protein source. 93
+
+Responding to Climate Change: The Ongoing Debate
+The discussion of what should be done in response to climate change is complicated by two distinct
+but interrelated problems. The first is the sheer magnitude of the changes required to mitigate and/or
+adapt successfully to climate change, and the second is the global free riding problem that impedes
+consensus on who should pay for those changes.
+There is general agreement in the scientific community that global warming needs to be limited to
+2°C (3.6°F) above pre-industrial levels by the end of the 21st century in order to avoid potentially
+dangerous impacts. 94 This probably requires atmospheric concentrations of CO2eq, which in 2016 were
+estimated to be around 430 ppm, to remain below 450 ppm. 95, 96 Keeping the Earth within the 2°C limit
+thus requires urgent action (Exhibit 16). b
+In general, reducing emissions requires action on three fronts: greatly increasing the efficiency with
+which energy is used; “decarbonizing” the world’s energy system through the use of renewable energy
+
+b For all the comforting predictability implied by the graphs, charts, and proposals of international climate assessment reports,
+
+if climate change unfolded as forecast under some CO2 emissions scenarios, no one really knows what would happen. Harvard
+economist Martin L. Weitzman has argued that “the most striking feature of the economics of climate change is that its extreme
+downside is non-negligible. Deep structural uncertainty about the unknown unknowns of what might go very wrong is coupled
+with essentially unlimited downside liability on possible planetary damages.” See his “Fat-Tailed Uncertainty in the Economics
+of Catastrophic Climate Change,” Review of Environmental Economics and Policy, vol. 5, issue 2, 2011, pp. 275,
+http://reep.oxfordjournals.org/content/5/2/275.abstract, accessed September 2016.
+
+5
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+or carbon capture; and changing land use and management. The Carbon Mitigation Initiative at
+Princeton University suggests that it is useful to think about the magnitude of the changes that are
+required in terms of “wedges,” where each wedge represents a carbon-cutting strategy that has the
+potential to avoid 1 billion tons of carbon emissions per year by 2060, or about one eighth of what is
+required to stabilize global emissions. The Carbon Mitigation Initiative presents a menu of 15 wedges,
+including “cutting emissions by 25% in all new and existing residential and commercial buildings” and
+“adding new nuclear electric plants to triple the world’s current nuclear capacity,” that if taken together
+would keep emissions at or below levels seen in 2000 (Exhibit 17). 97
+
+Improvements in energy efficiency Reducing energy demand through conservation and
+innovation appears to be a particularly promising means of reducing GHG emissions. For example,
+between the mid-1980s and 2015, energy efficiency standards and labeling for appliances and a broad
+range of products in the U.S., U.K., Australia, and other nations reduced the energy consumption of
+these products by 10% to 25%. 98 In 2015, such measures saved consumers and businesses in the U.S.
+about $40 billion. 99 A National Academies study concluded that while using LEED-Silver or equivalent
+standards in the construction of new buildings increased the costs of initial construction by up to 8%,
+energy costs would be reduced by between 5% and 30% over the life of the building. 100 A report from
+the UN Foundation estimated that an investment of $3.2 trillion worldwide in energy conservation
+would avoid new supply investments of $3 trillion and would pay for itself within three to five years. 101
+Since most energy use occurs in cities with rising populations, policies that encourage residential
+density, localized employment opportunities, diversified urban land use, and public transportation are
+particularly important. 102 Behavioral changes can also have a tangible impact. For instance, McKinsey
+estimates that changes such as driving smaller cars could reduce fuel demand by about 10% in 2030. 103
+The International Energy Agency (IEA) estimates that around 40% of the reductions required by 2050
+could potentially come from increased energy efficiency. 104
+Moving away from fossil fuels
+
+Keeping GHG concentrations in the atmosphere below 450
+ppm requires either the development of the ability to capture CO2 directly from the atmosphere at scale
+and/or moving away from coal, natural gas, and oil toward hydro, nuclear, solar, and wind power. 105
+In 2014, the world used an average of 16 to 18 terawatts (TW) of power at a given moment. c About
+28.6% of this energy was supplied from coal, 31.1% from oil, 21.2% from natural gas, and 4.8% from
+nuclear. 106 Biofuels and waste made up 10.3%, hydro 2.4%, and “other” renewables—geothermal,
+solar, wind, etc.—made up 1.4%. 107 Despite its tiny market share, solar energy has been frequently cited
+as a promising contender to fossil fuels. A key reason is that the experience curve (or learning curve)
+of solar photovoltaic (PV) modules has been shown to be about 20%, meaning that the price per module
+drops by about 20% every time the cumulative production of PV modules doubles. 108
+Are solar and wind energy already competitive against fossil fuels today? In some parts of the
+world, at some times of day, the answer is almost certainly yes. In 2015, the average retail price of
+electricity was $0.1267 per kWh for residential, $0.1059 per kWh for commercial, and $0.689 per kWh
+for industrial customers. 109 In areas such as the Southwest U.S. and North Africa, unsubsidized utilityscale solar PV can cost between $0.05 per kWh and $0.07 per kWh. 110 The cost of land-based wind
+power declined from $0.55 per kWh in 1990 to between $0.04 and $0.06 per kWh in 2016 (Exhibits 18
+and 19). 111 Some analysts believe that wind is currently the cheapest source of power in about one third
+c A note about “watts” (W) versus “watt hours” (Wh): The watt is a measure of power, or the rate at which energy is generated
+
+or consumed. For example, the Three Gorges Dam has a power-generating capacity of 22,500 megawatts (MW). The watt hour
+is a measure of the amount of energy. The annual energy output of power stations is given in this measurement. For example, in
+2014 the Three Gorges Dam generated 98.8 terawatt-hours (TWh) of electricity. When a light bulb with a power rating of 100 W
+is turned on for one hour, the energy used is 100 Wh or 0.1 kilowatt hours (kWh).
+
+6
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+of the US. 112 Moves toward increased use of solar and wind are complicated by the fact that, as of 2016,
+neither solar nor wind can provide baseload (or continuous) power. 113 Deploying wind and solar at
+scale thus requires significant advances in energy storage and the development of a smart grid to
+redirect excess power over long distances. 114 Opinions differ as to how soon this will be feasible and
+how much it will cost, but some analysts believe that it is likely the U.S. will be able to decarbonize its
+energy system by 2050 (Exhibit 20). d
+Expanding nuclear power is another option, in particular through the accelerated diffusion of so
+called “fourth generation” nuclear power: recent developments hold the promise of significantly
+reducing the capital costs associated with building nuclear power reactors while also making them
+safer and reducing their waste production. 115 In addition, transportation is responsible for 26% of U.S.
+CO2 emissions, making it the second largest source behind electricity (30%). 116 Efforts to reduce
+emissions from the sector include substantial investments in both biofuels and electric vehicles.
+
+Changes in agricultural, forestry, and other land use practices Changes in land use also
+have the potential to be an important factor in reducing carbon emissions. 117 For example, from 2000
+to 2005, the burning of tropical forests accounted for 7% to 14% of all anthropogenic CO2 emissions. 118
+Because forests act as sinks that remove carbon from the atmosphere and place it in the ground, the
+destruction of those forests accelerates the pace of climate change. 119 Biochar—charcoal added to soil
+to enhance crop yields and nutrition—is one potential means of reducing GHG emissions while
+simultaneously improving soil health. 120 Rather than burning agricultural and forestry waste, a source
+of enormous GHG emissions, waste biomass could be converted to biochar, which stores carbon in soil
+for thousands of years. 121 Other changes in agricultural practices aim to reduce methane emissions
+from livestock, which account for 14.5% of global CO2eq emissions. 122 One possible solution is the use
+of feed additives, which could reduce these emissions by 25% to 30%. 123 The U.N. Food and Agriculture
+Organization estimates that changes in practices “within existing [livestock agriculture] production
+systems could cut agricultural emission by about 30%.” 124
+Geoengineering Some scientists claim that geoengineering, or intentionally interfering in the
+world’s climate systems, is a possible solution to mitigating climate change. 125 They suggest exploring
+possibilities like injecting sulfates into the atmosphere, where their high reflectivity would stop up to
+1% of the sun’s radiation from reaching the Earth’s surface. 126 One plan in the U.K. involves pumping
+“water nearly a kilometer up into the atmosphere, by way of a suspended hose” attached to a “stadiumsize hydrogen balloon” in the stratosphere, 20 km above the Earth. 127 The plan, called Stratospheric
+Particle Injection for Climate Change (SPICE), is meant to test the feasibility of one day spraying sulfate
+particles in place of water. 128 SPICE and other geoengineering ideas were inspired by studying the
+atmosphere-cooling effects of volcanic eruptions, such as the Mount Pinatubo, Philippines eruption of
+1991, which “spewed 20 million tons of sulfate particles into the atmosphere, cooling Earth by 0.5
+degree Celsius for 18 months.” 129, 130 Preliminary estimates suggest that geoengineering could be
+relatively cheap, although it would have to be maintained continuously in order to control the Earth’s
+temperature. 131 However, this suggestion is hugely controversial. There are concerns that we have very
+little understanding of what the widespread distribution of sulfates might do and fear that they will
+damage the ozone layer, lead to drought, and possibly “disrupt the Asian and African summer
+monsoons, reducing precipitation to the food supply to billions.” 132
+
+d See Chris Goodall, The Switch (London: Profile Books, 2016).
+
+7
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+The Debate: Who Should Pay and How Much Should Be Spent
+At the highest level, several studies suggest that the costs of mitigating the effects of climate change
+are likely to be much lower than the costs of leaving it unchecked. For example, the IPCC estimated
+that keeping GHG emissions to a level that offers a 66% chance of not exceeding 2°C warming would
+cost 3% to 11% of world GDP by 2100, while leaving global warming unchecked might cost 23% to 74%
+of global per capita GDP by 2100 in lost agricultural production, health risks, flooded cities, and other
+major disruptions. 133, 134
+One approach to this question is through attempts to calculate the “social cost of carbon” (SCC), a
+measure designed to capture the economic damages caused by carbon emissions and usually expressed
+as an estimate of the damages caused by burning one ton of carbon. SCC values project the impact of
+carbon emissions far into the future, so they are sensitive to discount rates and to assumptions about
+how climate damages are likely to unfold. In 2015, the U.S. government estimated that the SCC was
+$36 per metric ton of CO2., using a discount rate of 3%(Exhibit 21). 135 This value suggests, for example,
+that the social costs of burning coal are significantly greater than the entire coal industry’s revenues.
+The two most common types of coal in the U.S. cost $14.72 and $55.99 per ton at the mine, respectively;
+and each ton of burnt coal emits 1.7 t and 2.2 t of CO2, respectively. 136, 137, 138
+The International Monetary Fund concluded that in 2013, fossil fuels caused $1.1 trillion in
+environmental and economic damages from climate change (1.5% of world GDP) and $2.2 trillion in
+health damages from pollution (3% of world GDP). 139 In the U.S. alone, fossil fuels led to $186 billion
+in climate change damages and $180 billion in pollution damages (each 1.1% of U.S. GDP). 140, 141 (In
+2010, the U.S. spent over $800 billion on coal, natural gas, and petroleum.) e, 142
+The fact that the benefits of addressing the problem of climate change almost certainly outweigh
+the costs—and that the effects of increased emissions are likely to last for thousands of years and affect
+the wellbeing of billions of people yet to be born—does not make concerted global action to address
+the problem easy. Indeed climate change is a difficult problem because addressing it requires dealing
+with (at least) three thorny issues: discount rates, free riding, and global geopolitics.
+
+Discount rates How much do we value GDP 100 years in the future? If we apply a discount rate
+based on the conventional cost of capital of 7% to 8% the answer is “not very much.” For example,
+$1,000 discounted at 7% for 100 years is worth only $1.15 in 2016 dollars. Many have argued that this
+is the wrong calculation and that it cannot be correct to place essentially no value on the wellbeing of
+our children's children, but there is enormous debate about how fast it makes sense to attempt to
+respond to climate change. 143 Analysis is complicated by the potential for technologies to become much
+cheaper in the future, just as solar panels have, and by the fact that climate change is already having
+major economic impacts. Hurricane Irene, for example, the storm system that hit New York City in
+2011, caused around $15 billion or more in damage. 144 The costs of the Syrian conflict are plausibly
+many times that, not to mention the loss of life of hundreds of thousands of people.
+Free riding Even given general agreement among nations that the costs of inaction outweigh the
+costs of action, addressing climate change still requires solving the free riding problem, or the fact that
+while the costs of reducing emissions must be incurred by particular firms, cities, or nations, the
+benefits will be experienced by everyone on the planet. GHG emissions are a classic “externality”: their
+
+e This estimate included expenditures in the residential, commercial, industrial, and transportation sectors but did not include
+
+expenditures on retail electricity or biomass.
+
+8
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+emission imposes harm on the entire community, but the emitters themselves—absent some form of
+cooperative agreement or global regulation—have no incentive to reduce them. 145
+
+Global geopolitics
+
+This issue is further complicated by the fact that many of the countries that
+are most vulnerable to climate change—primarily poorer developing nations—are those with relatively
+small historical carbon footprints. Many of them argue that the countries whose cumulative actions
+have contributed most to climate change, the developed nations, should bear most of the responsibility
+for cutting emissions. 146 This has proved to be a controversial idea, particularly as developing
+countries’ emissions have increased rapidly in line with their economic growth. Many developing
+countries have chosen to pursue cheaper but more GHG-intensive energy sources such as coal-fired
+power plants to foster development. 147 Some experts believe that some developing countries may be
+able to “leapfrog” traditional energy-intensive development paths. 148
+Despite these formidable difficulties, the global community has been experimenting with a variety
+of mechanisms to address climate change. It is widely believed that the most effective way to reduce
+carbon emissions is to rely on market based mechanisms such as carbon taxes and/or cap and trade
+regimes. 149, 150 Cap and trade systems issue permits that allow companies to emit a certain amount of
+GHGs; those companies that emit less than their initial allotments are then allowed to sell their excess
+permits to companies that wish to emit more than their initial allotment. The U.S. Acid Rain program
+relied on a cap and trade mechanism and succeeded in reducing sulfur dioxide (SO2) emissions by 40%
+and acid rain by 65%. The estimated benefits of the program were $56 billion compared to costs of just
+$558 million. 151, 152, 153 In contrast, a carbon tax places a predetermined price on every ton of CO2eq
+emitted into the atmosphere. 154 An EIA study found that total U.S. emissions could fall by four fifths
+by 2040 if the U.S. imposed a $25 per ton carbon tax in 2014 and raised it by 5% every year. 155 Both cap
+and trade systems and carbon tax programs seek to shape behavior by presenting the “real” external
+cost of emissions to firms and consumers. f, 156
+The first attempt to implement a global cap and trade regime to reduce GHG emissions was
+embodied in the Kyoto Protocol, which was adopted in 1997 and took effect in 2005. 157 The agreement
+mandated that developed countries reduce their overall GHG emissions to 5% below their 1990 levels
+between 2008 and 2012. 158 The Kyoto Protocol appears to have contributed to significant emissions
+reduction in the European Union but was never ratified by the U.S. and did not impose any obligations
+on developing countries such as China and India. 159 More recently, annual UN climate change
+conferences have brought together world leaders to review and extend the Kyoto commitments, with
+varying results. In 2015, 195 countries signed an agreement at the Paris Climate Conference (also
+known as COP21). It was the first commitment by nearly all of the world’s nations to take steps to curb
+GHG emissions and keep temperature increases “well below” 2°C. 160
+In the absence of binding global commitments, some states and regions have experimented by
+imposing their own carbon taxes and cap and trade regimes. Norway introduced a countrywide carbon
+tax in 1991. 161 Australia instituted a carbon tax in 2012 but repealed it the following year. 162, 163 A
+consortium of states including Connecticut, New York, and Massachusetts set up a cap and trade
+regime titled the Regional Greenhouse Gas Initiative. 164 One study found that the program produced
+$1.6 billion in net value added and $16.1 billion in increased employment between 2009 and 2011. 165
+
+f Regulations that seek to directly shape behavior by mandating the use of energy efficient appliances can be effective tools for
+
+reducing energy consumption or supporting a shift to lower carbon fuels. Many studies have explored the conditions under
+which this is likely to be the case. Source: “Scientific Assessment of Ozone Depletion: 2006,” World Meteorological Organization,
+pp.
+19,
+available
+at
+http://www.esrl.noaa.gov/csd/assessments/ozone/2006/chapters/
+contentsprefaceexecutivesummary.pdf, accessed September 2014.
+
+9
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+California introduced a cap and trade system in 2013. 166 The Canadian province of British Columbia
+instituted the only North American carbon tax in 2012. 167 The tax, which was designed to be revenue
+neutral, brought in $1.1 billion in 2013. 168 The tax has not had an adverse effect on the province’s
+competitiveness in the agriculture sector, although industries like cement manufacturing may have lost
+business. 169 In December 2016, Prime Minister Justin Trudeau of Canada announced plans to introduce
+nationwide carbon pricing in 2018, which would set a minimum price of about $7.60 per metric ton on
+fossil fuels that would increase to $38 per metric ton in five years. 170
+A number of countries have experimented with a range of other policies designed to reduce
+emissions. Many have offered subsidies to offset the costs of developing and producing renewable
+energy, such as simple lump-sum rebates or grants typically provided at the beginning of a project.
+Such policies can help to level the playing field as many countries also continue to provide fossil fuel
+subsidies. 171 For example, in 2015 China led the world with $103 billion in renewable energy
+investments, 36% of the world’s total, 172 and in the same year over 20% of China’s energy generation
+came from renewable sources. 173 Many American states have imposed renewable portfolio standards,
+mandating that a certain proportion of electricity supply must be generated from renewable sources. 174
+Congestion charging has led to significant reductions in car usage in places such as Singapore, London,
+and Stockholm. Tax credits have been used to incentivize investments such as renewable energy
+projects or residential efficiency improvements; and performance standards mandating the use of
+lower-energy technologies are found in many countries (Exhibit 22). 175
+
+Implications for the Private Sector
+The challenge of climate change presents both wide-ranging threats and opportunities for the
+private sector. On the one hand, public support for some form of carbon regulation appears to be quite
+strong (Exhibit 22), and government action to mitigate climate change poses a significant threat for
+some firms. The immediate effects of climate change are already threatening the viability of existing
+business practices in agriculture, infrastructure, and construction. But climate change also opens up
+opportunities. For example, 45% of consumers are willing to pay more for a product “from a company
+known for being environmentally friendly,” and the percentage of those willing to pay more for
+environmentally friendly products is highest among younger consumers. 176 Investment in sustainable
+energy technologies also is sometimes helping companies save on costs. For example, 25% of Wal-Mart
+operations are powered by renewables, and the company claims that from 2005 to 2016 its stores
+reduced energy use by 20% for a total savings of $1 billion. 177
+
+Climate change as a threat to business as usual
+In the agricultural sector, widespread concern that climate change threatens the supply of key
+commodities such as tea, fish, and cocoa has led some of the largest firms to adopt sustainable farming
+and fishing practices. Many of the world’s largest food companies believe this threat is compounded
+by the risk that being seen to contribute to climate change will increasingly become a public relations
+liability. 178 For example, in response to NGO accusations that they were contributing to deforestation,
+McDonald’s spearheaded industry-wide efforts to preserve the Amazon rainforest; Unilever helped to
+found the Roundtable for Sustainable Palm Oil; and Kimberly Clark committed to sourcing 50% of
+wood fiber from natural growth forests by 2025. 179, 180, 181 In the insurance industry, some firms, such as
+Swiss Re and Prudential, have incorporated climate change into their product offerings, for example
+with “pricing plans that account for potential climate impacts like storms and fires” or by declining to
+offer policies for properties at risk of coastal erosion attributable to climate change. 182
+
+10
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+Some companies have responded by including a carbon price in calculations used to make
+investment decisions. In 2016, 437 large companies reported using “internal carbon prices” (up from
+150 in 2014) and 583 more stated that they intend to implement internal carbon pricing by 2018. 183 For
+example, in 2012 Microsoft began charging individual business groups that used Microsoft services for
+their carbon use; by 2014, the internal carbon price completely offset Microsoft’s energy consumption,
+reducing GHG emissions by 7.5 million tons and saving the company over $10 million. One sources
+suggested that “carbon is expected to converge at $140 per ton of CO2 by 2030 and $400 by 2050. In a
+1.5-degree scenario, these costs would be considerably higher.” 184
+The increasing likelihood that the world may adopt some form of global carbon regulation may also
+have significant implications for financial markets. Several observers have argued that current equity
+prices reflect a “carbon bubble,” noting that if the world decides to keep atmospheric carbon
+concentrations below 450 ppm, the world’s balance sheets hold energy reserves containing over twice
+the amount of carbon than would be burned. They suggest that this implies that current valuations do
+not take account of the threat that these assets and capital investments will be “stranded.” One bank
+estimated that 40% to 60% of the current market value of the oil and gas sector may be at risk and noted
+that the top 200 companies in the sector have a total market value of $4 trillion. 185, 186
+Some of the largest firms in conventional energy have reacted to the threat of regulation by
+attempting to discredit climate science. For example, between 2007 and 2015, ExxonMobil contributed
+$1.87 million to politicians who deny climate change and an additional $454,000 to the American
+Legislative Exchange Council, a corporate lobbying group that impedes efforts to fight climate
+change. 187 Some accounts suggest that Charles and David Koch, whose businesses generate $100 billion
+in annual revenues from fossil fuels and other related industries, have spent over $88 million to deny
+the science and block regulation. 188, 189 Climate change denier organizations often follow a multipronged strategy that involves objecting to scientific data, funding seemingly academic front
+organizations, promoting “scientific spokespeople,” declaring the need for more research regardless of
+the consensus, and lobbying government officials to prevent regulations. 190 A Union of Concerned
+Scientists report found that many of these tactics (and some of the people) were borrowed from the
+tobacco industry’s earlier attempts to cast doubt on the scientific proof that smoking led to cancer. 191
+
+Mitigation and adaptation: the opportunities
+Climate change also presents the private sector with a number of opportunities in mitigation and
+adaptation. According to data from Bloomberg New Energy Finance, in 2015 total investments in clean
+energy reached a global record of $286 billion, more than six times the 2004 total. 192 New solar and
+wind capacity composed about half of all new energy generation. 193
+In transportation, electric cars (both battery electric and plug-in hybrids) are projected to grow
+rapidly in the next 25 years. In 2015, only about 550,000 new electric cars were registered worldwide,
+less than 1% of the global total of 66 million passenger cars sold. 194 However, some estimates show that
+in 2040, sales of electric cars would hit 41 million units, making up 35% of all light duty vehicle sales.
+A key reason is that the price of electric vehicle batteries are expected to drop significantly (the learning
+curve of lithium-ion batteries is about 22%); and by 2022 electric vehicles are expected to be at price
+parity with conventional internal-combustion cars. 195, 196 In 2015, Tesla Motors, the leading American
+electric vehicle company, had sales of only $4 billion, but its market capitalization in June of the same
+year was half that of General Motors—a firm whose 2015 sales were $152 billion. 197, 198, 199
+In urban planning and infrastructure, so-called “smart city” solutions might help urban centers
+reduce carbon emissions and be more energy-efficient. For example, Denmark operates district heating
+11
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+schemes—essentially large boilers that produce heat for whole neighborhoods through a networks of
+pipes—to reduce fuel consumption by capturing and redistributing heat that would have otherwise
+been dissipated. These underground pipes also combine heat transferred from industrial factories,
+incinerators, and transport systems. Such district heating solutions could help other cities significantly:
+One engineering firm estimated that in London, recapturing wasted heat could power 70% of the city's
+heating needs. 200 Other urban planning techniques to reduce fuel consumption include the
+preservation of green space (which would help sequester GHGs) and putting homes, shops, jobs,
+schools, and other destinations closer to public transportation. 201
+In industry and manufacturing, mitigation and adaptation opportunities can help firms save costs
+and reap competitive advantages. For example, technology companies can build new server centers in
+cold locations to lower cooling costs, and energy-intensive firms can consider relocating to locations
+where they can access cheap utility-scale solar energy. 202 Schneider Electric, a $29 billion revenue global
+energy giant, recently repositioned itself as the “global specialist in energy management,” aiming for
+75% of its product revenue to be derived from products featuring its “Green Premium”TM ecolabel. 203, 204
+In construction, new buildings are increasingly designed with better energy efficiency. LEED
+project registrations have grown by about 2,200 registrations each quarter, even during the 2008-2009
+real estate crisis. 205 The energy efficient light bulb business is now a $170+ billion industry, 206 while
+Johnson Controls had 2015 revenues of over $10.5 billion in its building efficiency business. 207, 208 In
+agriculture, firms that specialize in technologies to increase water supply or to increase its usage
+efficiency are expecting significant market expansion. The micro-irrigation market was valued at $1.9
+billion in 2013 and is projected to grow at a CAGR of 17.2% from 2014 to 2019. 209
+
+Looking to the Future
+Climate change is a systemic issue that has far-reaching consequences for global health, security,
+and prosperity. But despite continued efforts, the world’s emissions continue to increase, and 2016 was
+the hottest year on record for the third consecutive year. 210 Climate change mitigation will require a
+concerted global effort to enact systemic change, and many questions remain as to what shape such an
+effort should take. Should developed and developing nations be expected to participate equally in
+climate change reduction? How fast should such an effort move, and where should it focus? Will
+developing countries be able to leapfrog traditional energy-intensive development paths, or will they
+continue to face a trade-off between growth and low-carbon development? And what role should the
+private sector play in driving change?
+
+12
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 1
+
+Source:
+
+317-032
+
+Global Land-Ocean Temperature Index, 1880-2015
+
+NASA’s Goddard Institute for Space (GISS), “Global Temperature,” NASA website, http://climate.nasa.gov/vitalsigns/global-temperature/, accessed August 2016.
+
+Exhibit 2
+
+Atmospheric CO2 emissions, gigatonnes CO2 (GtCO2), 1850-2011
+
+Source:
+
+“Climate Change 2014: Synthesis Report,” Intergovernmental Panel on Climate Change, 2014,
+https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf, accessed May 2016.
+
+p.3,
+
+Note:
+
+Global anthropogenic CO2 emissions from forestry and other land use as well as from burning of fossil fuel, cement
+production and flaring. Cumulative emissions of CO2 from these sources and their uncertainties are shown as bars
+and whiskers, respectively, on the right hand side.
+
+13
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 3
+
+Global GHG Emissions by Economic Sector, 2010
+
+Source:
+
+“Climate Change 2014: Synthesis Report,” Intergovernmental Panel on Climate Change, 2014, pp. 47,
+https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_All_Topics.pdf, accessed June 2016.
+
+Note:
+
+Indirect CO2 emissions indicate distribution of electricity and heat production to sectors of final energy use. AFOLU
+was agriculture, forestry, and other land uses.
+
+Exhibit 4 Global Total Primary Energy Supply by fuel, millions of metric tons CO2e (MtCO2e),
+1971 and 2014
+
+Source:
+
+International Energy Agency, “Key World Energy Trends. Excerpt from: World Energy Balances,” 2016 using 2014
+data, p. 4, https://www.iea.org/publications/freepublications/publication/KeyWorldEnergyTrends.pdf, accessed
+August 2016.
+
+Note:
+
+In this graph peat and oil shale are aggregated with coal.
+
+14
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 5
+
+317-032
+
+Projected World Energy Consumption by region, 2010-2040
+200
+180
+
+China
+
+160
+
+Btu Quadrillion
+
+140
+120
+
+United States
+
+100
+OECD Europe
+
+80
+
+India
+
+60
+
+Russia
+
+40
+
+Brazil
+20
+
+Japan
+
+0
+
+Source:
+
+United States
+
+OECD Europe
+
+Russia
+
+Brazil
+
+Japan
+
+India
+
+Adapted from International Energy Outlook 2016, World Total Primary Energy Consumption by Region,
+http://www.eia.gov/forecasts/aeo/data/browser/#/?id=1-IEO2016&region=0-0&cases=Reference&start=
+2010&end=2040&f=A&linechart=Reference-d021916a.3-1-IEO2016~Reference-d021916a.6-1-IEO2016~Referenced021916a.8-1-IEO2016~Reference-d021916a.15-1-IEO2016~Reference-d021916a.18-1-IEO2016~Referenced021916a.19-1-IEO2016~Reference-d021916a.24-1-IEO2016&ctype=linechart&sourcekey=0, accessed September 2016.
+
+Exhibit 6
+
+Source:
+
+China
+
+Radiative Forcing and the Greenhouse Gas Effect
+
+“Climate Change Indicators in the United States, 2014,” U.S. Environmental Protection Agency, 3rd Ed., 2014, p. 4,
+https://www3.epa.gov/climatechange/pdfs/climateindicators-full-2014.pdf, accessed May 2016.
+
+15
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 7
+
+The General Public’s Agreement with Climate Change Science Varies by Country, 2014
+
+To what extend do you agree or disagree? The climate change we are currently seeing is largely the
+result of human activity
+
+Source:
+
+“Where in the World Is Climate Change Denial Most Prevalent?” The New York Times, December 11, 2015,
+http://www.nytimes.com/interactive/projects/cp/climate/2015-paris-climate-talks/where-in-the-world-isclimate-denial-most-prevalent, accessed August 2016, citing “Global Trends 2014,” Ipsos MORI,
+http://www.ipsosglobaltrends.com/environment.html, accessed August 2016.
+
+Exhibit 8 Atmospheric CO2 Levels, parts per million, direct and indirect measurements, 2005-2016
+and historically
+Direct Measurements, 2005-2016
+
+16
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+Proxy (Indirect) Measurements
+
+Source:
+
+“Carbon Dioxide,” NASA website, http://climate.nasa.gov/vital-signs/carbon-dioxide/, accessed August 2016.
+
+Note:
+
+Direct data source: Monthly measurements (average seasonal cycle removed). Proxy (indirect) data source:
+Reconstruction from ice cores.
+
+Exhibit 9 Forecasted Temperatures Associated with Various GHG Concentration Scenarios,
+Collected and Assessed for IPCC Fifth Assessment Report (AR5)
+
+Source:
+
+Summary for Policymakers, In: Climate Change 2014, Mitigation of Climate Change,” Intergovernmental Panel on
+Climate Change, 2014, p. 13, https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_summary-forpolicymakers.pdf, accessed August 2016. See endnote. 211
+
+17
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 10
+2100, 2014
+
+Source:
+
+“Climate Change 2014: Impacts, Adaptation, and Vulnerability Top-Level Findings,” Intergovernmental Panel on
+Climate Change, 2014, pp. 3, http://www.ipcc.ch/report/ar5/wg2/docs/WGIIAR5_SPM_Top_Level_Findings.pdf,
+accessed September 2016.
+
+Exhibit 11
+
+Source:
+
+18
+
+Global Mean Temperature Changes Measured in 1850-2012 and Forecasted Through
+
+Sea Level Change, mm, 1870-2000 and Sea Height Variation, mm, 1993-present
+
+“Sea Level,” NASA website, http://climate.nasa.gov/vital-signs/sea-level/, accessed August 2016.
+
+Note:
+
+Source:
+
+Population Displacement (People Leaving their Homes) due to Natural Disaster, Top 20 Events by Total Population Displacement and
+Top 10 Countries by Per Capita Displacement, 2014
+
+-19-
+
+Michelle Yonetani, “Global Estimate 2015: People displaced by disasters,” Internal Displacement Monitoring Centre (IDMC), July 20, 2015, http://www.internaldisplacement.org/assets/library/Media/201507-globalEstimates-2015/20150713-global-estimates-2015-en-v1.pdf, accessed February 2017.
+19.3 million people newly displaced worldwide. Bangladesh: Floods (August) 542,000; Bosnia and Herzegovina: 90’600, 23,680/1m; Cambodia: 154’900, 10,050/1m; Chile: 985’300
+displaced, 55’440/1m; China: Typhoon Rammasun 628,000, Inland storm 447,000, Floods (July) 403,000, Floods (2nd half June) 337,000, Typhoon Matmo 289,000, Typhoon
+Kalmaegi 252,000, Floods (1st half June) 239,000, Ludian earthquake 236,900; India: Odisha floods (July) 1.07m, Jammu and Kashmir floods 812,000, Cyclone Hudhud 639,000,
+Assam and Meghalaya floods 367,000; Japan: 707’500, 5,570/1m, Typhoon Halong 570,000; Malaysia: 255’700, 8.470/1m, Floods (December) 247,100; Pakistan: 770‘600, 4,150/1m,
+Riverine floods (September) 740,150; Paraguay: 83’600, 12,080/1m; Philippines: 5.8m, 57,810/1m, Typhoon Rammasun 2.99m, Typhoon Hagupit 1.82m, Tropical storm Lingling
+400,000; Sri Lanka: 151,800, 7,080/1m; Sudan 193’100, 4,980/1m.
+
+Exhibit 12
+
+317-032
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 13 Estimated Health Effects from U.S. Coal-Fired Power Plant Emissions, 2010 and Total
+Deaths Attributable to Household Air Pollution, by region, 2012
+
+Source:
+
+Conrad Schneider and Jonathan Banks, “The Toll From Coal,” Clean Air Task Force, September 2010,
+http://www.catf.us/resources/publications/files/The_Toll_from_Coal.pdf, cited in “Estimated Health Effects from
+U.S. Coal-Fired Power Plant Emissions,” Rocky Mountain Institute, http://www.rmi.org/RFGraphhealth_effects_from_US_power_plant_emissions; World Health Organization, “Burden of Disease from Household
+Air
+Pollution
+for
+2012,”
+http://www.who.int/phe/health_topics/outdoorair/databases/
+FINAL_HAP_AAP_BoD_24March2014.pdf?ua=1, both accessed September 2016.
+
+Note:
+
+Household air pollution; Amr: America, Afr: Africa; Emr: Eastern Mediterranean, Sear: South-East Asia, Wpr: Western
+Pacific; LMI: Low- and middle-income; HI: High-income.
+
+20
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+Exhibit 14 Increasing Atmospheric Concentrations of CO2Lead Oceans to Absorb More Carbon
+Dioxide, which Increases the Acidity of Oceans, Hawaii Carbon Dioxide Time-Series, 1958 to 2015
+
+Source:
+
+“Ocean Acidification: The Other Carbon Dioxide Problem,” NOAA PMEL Carbon Program website,
+http://www.pmel.noaa.gov/co2/story/Ocean+Acidification, accessed September 2016.
+
+Note:
+
+This graph shows the correlation between rising levels of carbon dioxide (CO2) in the atmosphere at Mauna Loa with
+rising CO2 levels in the nearby ocean at Station Aloha. (Upward sloping data correspond to atmospheric and seawater
+CO2 concentrations; downward sloping data correspond to seawater pH.)As more CO2 accumulates in the ocean, the
+pH of the ocean decreases (modified after R.A. Feely, Bulletin of the American Meteorological Society, July 2008).
+
+Exhibit 15
+
+Climate Change and Ocean Acidification: Shells Dissolve in Acidified Ocean Water
+
+Source:
+
+“Climate Change Impacts in the United States,” U.S. Global Change Research Program National Climate Assessment
+and Development Advisory
+Committee, 2014, pp. 49,
+http://s3.amazonaws.com/nca2014/high/
+NCA3_Climate_Change_Impacts_in_the_United%20States_HighRes.pdf, accessed June 2016.
+
+Note:
+
+Pteropods, or “sea butterflies,” are free-swimming sea snails about the size of a small pea. Pteropods are eaten by marine
+species ranging in size from tiny krill to whales and are an important source of food for North Pacific juvenile salmon. The
+photos above show what happens to a pteropod’s shell in seawater that is too acidic. The left panel shows a shell collected
+from a live pteropod from a region in the Southern Ocean where acidity is not too high. The shell on the right is from a
+pteropod collected in a region where the water is more acidic (Photo credits: (left) Bednaršek et al. 2012; (right) Nina
+Bednaršek).
+
+21
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 16
+
+Source:
+
+22
+
+Global Annual Anthropogenic CO2 Emissions, 1950-2100 GtCO2 per year, 2014
+
+“Climate Change 2014: Synthesis Report,” Intergovernmental Panel on Climate Change, 2014,
+https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf, accessed September 2016.
+
+p.9,
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 17
+
+317-032
+
+Stabilization Wedges
+
+Stabilization wedges refer to a framework for preventing approximately 200 billion tons of carbon emissions by
+2060 by keeping emissions flat for the next 50 years and then reducing emissions below today’s levels in the second
+half of the twenty first century. “A wedge represents a carbon-cutting strategy that has the potential to grow from
+zero today to avoiding 1 billion tons of carbon emissions per year by 2060.” There are 15 strategies to cut emissions
+in the electricity production, heating and direct fuel use, transportation, and biostorage sectors:
+•
+
+Efficiency—Transportation: One wedge could come from doubling the efficiency of all the world’s cars from
+30 miles per gallon to 60 miles per gallon using hybrid and diesel technologies; increase aviation efficiency.
+Challenges include car size and power.
+
+•
+
+Conservation—Transportation: One wedge could come from cutting miles traveled by all passenger and/or
+freight vehicles in half by increasing public transport and enhancing urban design.
+
+•
+
+Efficiency—Buildings: One wedge could come from 25% emissions cuts in new and existing buildings by
+increasing insulation, furnace, and lighting efficiency. Challenges include house size and demand for
+appliances.
+
+•
+
+Efficiency—Electricity: One wedge could come from increasing the efficiency of power generation by raising
+plant efficiency from 40% to 60%, although this would increase plant costs.
+
+•
+
+Carbon Capture & Storage (CCS) Electricity: One wedge could come from injecting underground a volume of
+CO2 every year equal to the volume extracted, or 90% of the CO2 from 800 large coal or 1,600 natural gas power
+plants. The risk is the possibility of CO2 leakage.
+
+•
+
+CCS Hydrogen: One wedge could come from producing hydrogen at 10x current rates, displacing
+hydrocarbon with hydrogen fuel. Challenges include new infrastructure cost and hydrogen safety.
+
+•
+
+CCS Synfuels (fuels made from non-petroleum synthetic feedstocks): One wedge could come from using CCS
+at 180 large synfuels plants to capture and store CO2 emitted during production.
+
+•
+
+Fuel Switching—Electricity: One wedge could come from replacing 1,400 coal plants with natural gas plants
+that would use natural gas equal to the amount used for all purposes today, making availability a challenge.
+
+•
+
+Nuclear Electricity: One wedge could come from doubling the current capacity of nuclear power, requiring
+about three times the effort France put into expanding nuclear power in the 1980s, sustained for 50 years.
+Challenges include weapons proliferation, nuclear waste, safety, and local opposition.
+
+•
+
+Wind Electricity: One wedge could come from using an area equal to about 3% of U.S. land area for wind
+farms, adding 10x current capacity. Local opposition is a challenge.
+
+•
+
+Solar Electricity: One wedge could come from using the equivalent of a 100x 200 km PV arrays, 100x current
+capacity, to displace coal-based electricity, but the challenge is PV cell materials.
+
+•
+
+Wind Hydrogen: One wedge could come from powering half the world’s cars by 2050 with hydrogen
+produced using wind electricity. Challenges include local opposition, hydrogen infrastructure, and safety.
+
+•
+
+Biofuels: One wedge could come from scaling up world ethanol production by a factor of 12 to replace
+petroleum fuels. However, maintaining biodiversity and competing land uses are challenges.
+
+•
+
+Forest Storage: One wedge could come from halting deforestation for 50 years, storing carbon in new forests.
+However, maintaining biodiversity and competing land uses are challenges.
+
+•
+
+Soil Storage: One wedge could come from practicing carbon management on all the world’s agriculture by
+using farming techniques to increase carbon retention or storage in soil. However, the risk is that this could
+be reversed if the land is deep-plowed later.
+
+Source:
+
+Compiled by casewriter from “Stabilization Wedges,” Carbon Mitigation Initiative, Princeton Environmental Institute,
+Princeton University, https://cmi.princeton.edu/wedges, accessed September 2016.
+
+23
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 18 Estimated LCOE (simple average of regional values) for new generation resources, for
+plants entering service in 2022
+
+Source:
+
+“Levelized Cost and Levelized Avoided Cost of New Generation Resources in the Annual Energy Outlook 2016,” US
+EIA, August 2016, http://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf, accessed December 2016.
+
+Notes:
+
+1 The capacity-weighted average is the average levelized cost per technology, weighted by the new capacity coming
+online in each region. The capacity additions for each region were based on additions in 2018 -2022. Technologies for
+which capacity additions are not expected do not have a capacity-weighted average, and are marked as “N/B.”
+2 The tax credit component is based on targeted federal tax credits such as the production or investment tax credit
+available for some technologies. It only reflects tax credits available for plants entering service in 2022. EIA models
+renewable tax credits as follows: new solar thermal and PV plants are eligible to receive a 30% investment tax credit
+on capital expenditures if under construction before the end of 2019, and then tax credits taper off to 26% in 2020, 22%
+in 2021, and 10% thereafter. New wind, geothermal, and biomass plants receive a $23.0/MWh ($12.0/MWh for
+technologies other than wind, geothermal and closed-loop biomass) inflation-adjusted production tax credit over the
+plant’s first ten years of service if they are under construction before the end of 2016, with the tax credit for wind
+declining by 20% in 2017, 40% in 2018, 60% in 2019, and expiring completely in 2020. Up to 6 GW of new nuclear plants
+are eligible to receive an $18/MWh production tax credit if in service by 2020. Not all technologies have tax credits,
+and are indicated as “N/A.” The results are based on a regional model and state or local incentives are not included
+in LCOE calculations.
+3 Due to new regulations (CAA 111b), conventional coal plants cannot be built without CCS because they are required
+to meet specific CO2 emission standards. The coal with CCS technology modeled is assumed to remove 30% of the
+plant’s CO2 emissions. Coal plants have a 3 percentage-point adder to their cost-of-capital.
+4 Costs are expressed in terms of net AC power available to the grid for the installed capacity.
+5 As modeled, hydroelectric is assumed to have seasonal storage so that it can be dispatched within a season, but
+overall operation is limited by resources available by site and season.
+
+24
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+Exhibit 19 U.S. Annual Installed Wind Capacity (gigawatts) and Levelized Cost of Energy (LCOE)
+from Wind Generation (2013 USD per megawatt-hour), 2014
+
+Source:
+
+“Wind Vision,” U.S. Department of Energy, 2014, pp. 11, http://www.energy.gov/sites/prod/files/
+wv_chapter2_wind_power_in_the_united_states.pdf, accessed September 2016.
+
+Note:
+
+In the Wind Vision, “good to excellent sites” are those with average wind speeds of 7.5 meters per second (m/s) or
+higher at hub height. LCOE estimates exclude the PTC.
+
+Exhibit 20 Proposed Timeline for the Implementation of 100% Clean and Renewable Wind, Water,
+and Sunlight All-Sector Energy Roadmaps for the United States
+
+Source:
+
+Mark Z. Jacobson, Mark A. Delucchi, Guillaume Bazouin, Zack A. F. Bauer, Christa C. Heavey, Emma Fisher, Sean B.
+Morris, Diniana J. Y. Piekutowski, Taylor A. Vencill, and Tim W. Yeskoo, “100% Clean and Renewable Wind, Water,
+and Sunlight (WWS) All-Sector Energy Roadmaps for the 50 United States,” Energy & Environmental Science, issue 7,
+2015, via Royal Society of Chemistry Journals, accessed September 2016.
+
+Note:
+
+Time-dependent change in U.S. end-use power demand for all purposes (electricity, transportation, heating/cooling,
+and industry) and its supply by conventional fuels and WWS generators based on state roadmaps proposed here. Total
+power demand decreases on conversion to WWS due to efficiency of electricity over combustion and end-use energy
+efficiency measures. Percentages on date axis are percent conversion to WWS by that year. The percentages next to
+each WWS source are final estimated penetration of the source. The 100% demarcation in 2050 indicates that 100% of
+all-purpose power is provided by WWS technologies by 2050, and the power demand by that time has decreased.
+
+25
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 21
+
+Source:
+
+26
+
+The Social Cost of Carbon
+
+“Technical Support Document: ­Technical Update of the Social Cost of Carbon for Regulatory Impact Analysis ­Under
+Executive Order 12866,” Interagency Working Group on Social Cost of Greenhouse Gases, United States Government,
+August 2016, https://www.epa.gov/sites/production/files/2016-12/documents/sc_co2_tsd_august_2016.pdf,
+accessed December 2016.
+
+Source:
+
+Fossil Fuel and Renewable Energy Subsidies Worldwide, 2013 ($ billions)
+
+-27-
+
+“Carbon Emissions and the Taxpayer,” Financial Times, 2013, http://blogs.ft.com/the-world/files/2016/07/GR262Xcarbon_tax_modern_energy_SR_CHART.png, accessed
+September 2016.
+
+Exhibit 22
+
+317-032
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+Exhibit 22 (con’t)
+
+Source:
+
+28
+
+Renewable Energy and Fossil-Fuel Subsidies, by Country, 2013
+
+“Carbon
+Emissions
+and
+the
+Taxpayer,”
+Financial
+Times,
+2013,
+http://blogs.ft.com/theworld/files/2016/07/GR262Xcarbon_tax_modern_energy_SR_CHART.png, accessed September 2016.
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+Endnotes
+1 Department of Defense, “National Security Implications of Climate-Related Risks and a Changing Climate,” July 23, 2015,
+
+http://archive.defense.gov/pubs/150724-congressional-report-on-national-implications-of-climatechange.pdf?source=govdelivery, accessed August 2016.
+
+2 NASA’s Goddard Institute for Space (GISS), “Global Temperature,” NASA website, http://climate.nasa.gov/vital-
+
+signs/global-temperature/, accessed August 2016.
+
+3 Nell Greenfieldboyce, “2016 Was The Hottest Year Yet, Scientists Declare,” NPR, January 18, 2017, http://www.npr.org/
+sections/thetwo-way/2017/01/18/510405739/2016-was-the-hottest-year-yet-scientists-declare, accessed January 2017.
+4 “tCO2e,” The Dictionary of the Climate Debate (DCD), http://www.odlt.org/dcd/ballast/tco2e.html, accessed June 2016.
+5 “Turn Down the Heat: Confronting the New Climate Normal,” World Bank, 2014, p.xviii, available at
+http://documents.worldbank.org/curated/en/2014/11/20404287/turn-down-heat-confronting-new-climate-normal-vol-2-2main-report, accessed May 2016.
+6 “Climate Change 2014: Synthesis Report,” Intergovernmental Panel on Climate Change, 2014, pp. 45,
+
+https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_All_Topics.pdf, accessed June 2016.
+
+7 U.S. Global Climate Change Research Program, “Climate Change Impacts in the United States,” Thomas R. Karl, Jerry M.
+Melillo, and Thomas C. Peterson (eds.), 2014, p. 9, https://downloads.globalchange.gov/usimpacts/pdfs/climate-impactsreport.pdf, accessed August 2016.
+8 “Climate Change 2014: Synthesis Report,” pp. 47.
+9 Pete Smith, Mercedes Bustamante, Helal Ahammad, Harry Clark, Hongmin Dong, Elnour A. Elsiddig, Helmut Haberl,
+
+Richard Harper, Joanna House, Mostafa Jafari, Omar Masera, Cheikh Mbow, Nijavalli H. Ravindranath, Charles W. Rice,
+Carmenza Robledo Abad, Anna Romanovskaya, Frank Sperling, Francesco N. Tubiello, “2014: Agriculture, Forestry and Other
+Land Use (AFOLU),” in Climate Change 2014: Mitigation of Climate Change, contribution of Working Group III to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change, eds. Ottmar Edenhofer, Ramón Pichs-Madruga, Youba
+Sokona, Ellie Farahani, Susanne Kadner, Kristin Seyboth, A. Adler, I. Baum, S. Brunner, Patrick Eickemeier, B. Kriemann, J.
+Savolainen, Steffen Schlömer, Christoph von Stechow, Timm Zwickel, and J.C. Minx (Cambridge, United Kingdom and New
+York, New York: Cambridge University Press, 2014), https://www.ipcc.ch/pdf/assessmentreport/ar5/wg3/ipcc_wg3_ar5_chapter11.pdf, accessed September 2016.10 International Energy Agency, “Key World Energy
+Trends. Excerpt from: World Energy Balances,” 2016 using 2014 data, p. 4,
+https://www.iea.org/publications/freepublications/publication/KeyWorldEnergyTrends.pdf, accessed August 2016.
+11 David L. Chandler, “Explained: Radiative Forcing,” MIT News Office, March 10, 2012,
+
+http://newsoffice.mit.edu/2010/explained-radforce-0309, accessed August 2014.
+
+12 “Surface Area of the Earth,’ Universe Today website, http://www.universetoday.com/25756/surface-area-of-the-earth/,
+
+accessed September 2014.
+
+13 Chandler, “Explained . . ..”
+14 IPCC Fifth Assessment Report (AR5), Intergovernmental Panel on Climate Change, 2014,
+
+https://www.ipcc.ch/report/ar5/, accessed December 2016.
+
+15 “Scientific Consensus,” National Wildlife Federation website, https://www.nwf.org/Wildlife/Threats-to-Wildlife/Global-
+
+Warming/Global-Warming-is-Well-Documented/Scientific-Consensus.aspx, accessed September 2016.
+
+16 William Anderegg, James W. Prall, Jacob Harold, and Stephen Schneider, “Expert Credibility in Climate Change,”
+
+Proceedings of the National Academy of Sciences of the United States of America, April 9, 2010, p. 12107,
+http://www.pnas.org/content/107/27/12107.full.pdf+html~~&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;Preliminary,
+accessed December 2014.
+
+17 John Cook, Naomi Oreskes, Peter T. Doran, William R.L. Anderegg, Bart Verheggen,Ed W. Maibach, J. Stuart
+
+Carlton, Stephan Lewandowsky, Andrew G. Skuce, Sarah A. Green, Dana Nuccitelli, Peter Jacobs, Mark Richardson, Bärbel
+Winkler, Rob Painting, and Ken Rice, “Consensus on consensus: a synthesis of consensus estimates on human-caused global
+warming,” IOP Science, April 13, 2016, http://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002, accessed August
+2016.
+
+29
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+18 ”How to Talk to a Climate Skeptic: Responses to the Most Common Skeptical Arguments on Global Warming,” The Grist,
+
+http://grist.org/series/skeptics/, August 2016.
+
+19 ”How to Talk to a Climate Skeptic . . ..”
+20 Benjamin D. Santer, Jeffrey F. Painter, Celine Bonfils, Carl A. Mears, Susan Solomon, Tom M. L. Wigley, Peter J. geckler,
+
+Gavin A. Schmidt, Charles Doutriaux, Nathan P. Gillett, Karl E. Taylor, Peter W. Thorne, and Frank J. Wentz, “Human and
+natural influences on the changing thermal structure of the atmosphere,” Proceedings of the National Academy of Sciences, vol.
+110, issue 43, 2013, pp. 17235-17240. http://www.pnas.org/content/110/43/17235.full.pdf, accessed December 2016.
+
+21 “Where in the World Is Climate Change Denial Most Prevalent?” The New York Times, December 11, 2015,
+
+http://www.nytimes.com/interactive/projects/cp/climate/2015-paris-climate-talks/where-in-the-world-is-climate-denialmost-prevalent, accessed August 2016.
+22 Sondre Båtstrand, “More than Markets: A Comparative Study of Nine Conservative Parties on Climate Change,” Politics &
+
+Policy, vol. 43, issue 4, August 2015, pp. 538-561, http://onlinelibrary.wiley.com/doi/10.1111/polp.12122/full, accessed
+August 2016.
+23 “History,” Intergovernmental Panel on Climate Change website,
+
+https://www.ipcc.ch/organization/organization_history.shtml, accessed August 2014.
+
+24 “History,” Intergovernmental Panel on Climate Change website.
+25 “IPCC Participants,” IPCC Facts website, http://www.ipccfacts.org/participants.html, accessed August 2014.
+26 NOAA, “Carbon Dioxide,” NASA website, http://climate.nasa.gov/vital-signs/carbon-dioxide/, accessed August 2016.
+27 Summary for Policymakers, In: Climate Change 2014, Mitigation of Climate Change,” Intergovernmental Panel on Climate
+
+Change, 2014, p. 9, https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_summary-for-policymakers.pdf,
+accessed August 2016.
+28 Summary for Policymakers . . .,” p. 8.
+29 David L. Chandler, “Climate Change Odds Much Worse than Thought,” MIT News Office, May 19, 2009,
+http://newsoffice.mit.edu/2009/roulette-0519, accessed October 2014.
+30 “What are Positive Feedbacks?” National Oceanic and Atmospheric Administration website,
+
+http://www.ncdc.noaa.gov/paleo/abrupt/story2.html, accessed August 2014.
+
+31 “What are Positive Feedbacks?”
+32 “Permafrost in a Warming World,” Weather Underground, 2016,
+
+https://www.wunderground.com/resources/climate/melting_permafrost.asp, accessed August 2016.
+
+33 Kevin Schaefer, “Methane and Frozen Ground,” National Snow & Ice Data Center,
+
+https://nsidc.org/cryosphere/frozenground/methane.html, accessed August 2016.
+
+34 T. Schneider von Deimling, M. Meinshausen, A. Levermann, V. Huber, K. Frieler, D. M. Lawrence, and V. Brovkin,
+
+“Estimating the near-surface permafrost-carbon feedback on global warming,” Biogeosciences, 9, November 20, 2011, pp. 649655, http://www.biogeosciences.net/9/649/2012/bg-9-649-2012.html, accessed September 2016.
+35 Quéré, C. Le, et al. “The global carbon budget 1959–2011.” Earth System Science Data 5.1 (2013): 165-185, http://www.earth-
+
+syst-sci-data-discuss.net/5/1107/2012/essdd-5-1107-2012.pdf, accessed December 2016.
+
+36 Nicola Jones, “Rising Waters: How Fast and How Far Will Sea Levels Rise?” Yale Environment 360, October 21, 2013,
+
+http://e360.yale.edu/feature/rising_waters_how_fast_and_how_far_will_sea_levels_rise/2702/, accessed August 2016.
+
+37 “Arctic Sea Ice Decline,” Weather Underground website, https://www.wunderground.com/climate/SeaIce.asp?MR=1,
+
+accessed September 2016.
+
+38 “Arctic Sea Ice Decline.”
+39 Peter Wadhams in Ian Johnston, “Arctic could become ice-free for first time in more than 100,000 years, claims leading
+scientist,” Independent, June 4, 2016, http://www.independent.co.uk/environment/climate-change/arctic-could-become-icefree-for-first-time-in-more-than-100000-years-claims-leading-scientist-a7065781.html, accessed September 2016.
+40 “Sea Level,” NASA website, http://climate.nasa.gov/vital-signs/sea-level/, accessed August 2016.
+
+30
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+41 “Understanding Sea Level: Empirical Projections,” NASA website, https://sealevel.nasa.gov/understanding-sea-
+
+level/projections/empirical-projections, accessed August 2016.
+
+42 Nell Greenfieldboyce, “Study: 634 Million People at Risk from Rising Seas,” National Public Radio, March 28, 2007,
+
+http://www.npr.org/templates/story/story.php?storyId=9162438, accessed August 2014.
+
+43 “New Report and Maps: Rising Seas Threaten Land Home to Half a Billion,” Surging Seas, November 8, 2015,
+
+http://sealevel.climatecentral.org/news/global-mapping-choices, accessed August 2016.
+
+44 “Five Pacific Islands Lost to Rising Seas as Climate Change Hits,” Reuters in The Guardian, May 10, 2016,
+
+https://www.theguardian.com/environment/2016/may/10/five-pacific-islands-lost-rising-seas-climate-change, accessed
+August 2016.
+45 Oliver Milman, “Pacific Nations Beg for Help for Islanders Forced to Flee,” Climate Central, The Guardian, October 17, 2015,
+http://www.climatecentral.org/news/pacific-nations-beg-for-climate-help-19558, accessed August 2016.
+46 Kelly Wyett, “Escaping a Rising Tide: Sea Level Rise and Migration in Kiribati,” Asia & The Pacific Policy Studies, vol. 1, no. 1,
+
+October 2013, http://onlinelibrary.wiley.com/doi/10.1002/app5.7/pdf, accessed August 2016.
+
+47 Srabani Roy, “Climate Change: Coastal Mega-Cities in for a Bumpy Ride,” Common Dreams, March 28, 2007,
+http://www.commondreams.org/news/2007/03/28/climate-change-coastal-mega-cities-bumpy-ride, accessed September
+2014.
+48 Kate Gordon, “Risky Business: The Economic Risks of Climate Change in the United States,” The Risky Business Project,
+
+June 2014, p. 4, http://riskybusiness.org/site/assets/uploads/2015/09/RiskyBusiness_Report_WEB_09_08_14.pdf, accessed
+June 2016.
+
+49 Gordon, p. 26.
+50 John Carey, “Global Warming and the Science of Extreme Weather,” Scientific American, June 29, 2011,
+
+http://www.scientificamerican.com/article/global-warming-and-the-science-of-extreme-weather/, accessed August 2014.
+
+51 “Explaining Extreme Events of 2012 from a Climate Perspective,” Bulletin of the American Meteorological Society, Vol. 94,
+
+No. 9, Eds. Thomas C. Peterson, Martin P. Hoerling, Peter A. Stott, and Stephanie C. Herring, September 2013, pp. 3.
+
+52 Kate Marvel and Celine Bonfils, “Identifying External Influences on Global Precipitation,” Proceedings of the National Academy
+
+of Sciences of the Unites States of America, October 18, 2013, http://www.pnas.org/content/110/48/19301.full.pdf+html,
+accessed September 2014.
+
+53 Janet Zimmerman, “DROUGHT: 2015 water year is hottest and driest on record,” The Press Enterprise, September 29, 2015,
+
+http://www.pe.com/articles/year-781907-average-percent.html, accessed September 2016.
+
+54 “Water Year 2014 Ends as 3rd Driest in Precipitation,” California Department of Water Resources website,
+
+http://www.water.ca.gov/waterconditions/, accessed December 2014.
+
+55 “Explaining Extreme Events of 2012 from a Climate Perspective,” Bulletin of the American Meteorological Society, Vol. 94,
+
+No. 9, Eds. Thomas C. Peterson, Martin P. Hoerling, Peter A. Stott, and Stephanie C. Herring, September 2013, p. 45.
+
+56 John Vidal, “Across Africa, the Worst Food Crisis Since 1985 Looms for 50 Million,” The Guardian, May 22, 2016,
+
+https://www.theguardian.com/global-development/2016/may/22/africa-worst-famine-since-1985-looms-for-50-million,
+accessed August 2016.
+57 “Climate Change Indicators in the United States, 2014,” U.S. Environmental Protection Agency, 3rd Ed., 2014. pp. 9.
+58 “Typhoon Haiyan death toll tops 6,000 in the Philippines,” CNN, December 13, 2013,
+http://www.cnn.com/2013/12/13/world/asia/philippines-typhoon-haiyan/, accessed September 2016.
+59 “Water and Food Security,” Food and Agriculture Organization of the United Nations website,
+
+http://www.fao.org/docrep/x0262e/x0262e01.htm, accessed September 2014.
+
+60 “Water and Food Security.”
+61 “Climate Change Vulnerabilities in Agriculture in Pakistan,” Government of Pakistan Ministry of the Environment, pp. 2
+
+http://cmsdata.iucn.org/downloads/pk_cc_agr_vul.pdf, accessed September 2014.
+
+62 “Warming Climate in India to Pose Significant Risk to Agriculture, Water Resources, Health, Says World Bank Report,”
+
+World Bank press release, June 19, 2013, http://www.worldbank.org/en/news/press-release/2013/06/19/warming-climateindia-pose-significant-risk-agriculture-water-resources-health-says-world-bank-report, accessed September 2014.
+
+31
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+63 Giulio Boccaletti, Sudeep Maitra, and Martin Stuchtey, “Transforming Water Economies,” McKinsey & Company, 2012, p. 1
+
+https://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/Sustainability/PDFs/McK%20on%20SRP/SRP_09
+_Water.ashx, accessed September 2014.
+
+64 “Floods and Droughts,” Intergovernmental Panel on Climate Change website,
+
+http://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch3s3-4-3.html, accessed December 2014.
+
+65 “Agriculture and Food Supply,” U.S. Environmental Protection Agency website,
+
+https://www3.epa.gov/climatechange/impacts/agriculture.html, accessed April 2016.
+66 “CO2 Can Reduce Food Value,” Living on Earth, August 22, 2014,
+
+http://www.loe.org/shows/segments.html?programID=14-P13-00034&segmentID=1, accessed August 2014.
+67 “Agriculture and Food Supply,” accessed April 2016.
+68 Christoph Müller, Wolfgang Cramer, William L. Hare, and Hermann Lotze-Campen, “Climate Change Risks for African
+
+Agriculture,” Proceedings of the National Academy of Sciences, vol. 108, no. 11, March 15, 2011, pp.4313-4315, available at
+http://www.pnas.org/content/108/11/4313.abstract, accessed June 2016.
+
+69 “Food Price Watch, May 2014: First Quarterly Increase Since August 2012; The Role of Food Prices in Food Riots,” The
+
+World Bank website, May 2014, http://www.worldbank.org/en/topic/poverty/publication/food-price-watch-may-2014,
+accessed September 2014.
+70 “Food Price Watch, May 2014 . . .,” accessed September 2014.
+71 Colin P. Kelley, Shahrzad Mohtadi, Mark A. Cane, Richard Seager, and Yochanan Kushnir, “Climate change in the Fertile
+Crescent and implications of the recent Syrian drought,” Proceedings of the National Academy of Sciences, vol. 112, no. 11, January
+30, 2015, http://m.pnas.org/content/112/11/3241.abstract%20and%20need%20Somalian%20reference, accessed September
+2016.
+72 John F. Kerry, “Remarks by Secretary Kerry on Climate Change and National Security,” Council on Foreign Relations
+website, November 11, 2015, http://www.state.gov/secretary/remarks/2015/11/249393.htm, accessed January 2017.
+73 “Climate Futures: Responses to Climate Change in 2030,” Forum for the Future, October 2008,
+
+https://www.forumforthefuture.org/sites/default/files/project/downloads/climate-futures.pdf, accessed April 2016.
+
+74 “The Reality, Risks and Response to Climate Change,” The AAAS Climate Science Panel, 2014, pp. 4,
+
+http://whatweknow.aaas.org/wp-content/uploads/2014/07/whatweknow_website.pdf, accessed June 2016.
+
+75 Jean-Marie Robine, Siu Lan K. Cheung, Sophie Le Roy, Herman Van Oyen, Clare Griffiths, Jean-Pierre Michel, Francois
+
+Richard Hermann, “Death Toll Exceeded 70,000 in Europe during the Summer of 2003,” Comptes Rendus Biologies,
+http://www.sciencedirect.com/science/article/pii/S1631069107003770, accessed September 2014.
+
+76 Alok Jha, “Climate change increased likelihood of Russian 2010 heatwave—study,” The Guardian, February 21, 2012,
+https://www.theguardian.com/environment/2012/feb/21/climate-change-russian-heatwave, accessed September 2016.
+77 Jeff Masters, “Earth’s 5th Deadliest Heat Wave in Recorded History Kills 1,826 in India,” WunderBlog, May 29, 2015,
+
+https://www.wunderground.com/blog/JeffMasters/earths-5th-deadliest-heat-wave-in-recorded-history-kills-1826-in-ind,
+accessed September 2016.
+78 “National Climate Assessment Report Executive Summary,” National Climate Assessment and Development Advisory
+
+Committee, Draft for Public Comment, January 2013, pp. 6, http://www.globalchange.gov/sites/globalchange/files/
+NCAJan11-2013-publicreviewdraft-chap1-execsum.pdf, accessed June 2016.
+
+79 “Climate Change Indicators in the United States, 2014,” U.S. Environmental Protection Agency, 3rd Ed., 2014. p. 73.
+80 “Climate Change Impacts,” accessed March 2016.
+81 Paul R. Epstein, Jonathan J. Buonocore, Kevin Eckerle, Michael Hendryx, Benjamin M. Stout III, Richard Heinberg, Richard
+
+W. Clapp, Beverly May, Nancy L. Reinhart, Melissa M. Ahern, Samir K. Doshi, Leslie Glustrom, “Full cost accounting for the
+life cycle of coal,” Annals of the New York Academy of Sciences, 1219(1), pp. 73-98, via Wiley Online Library, accessed February
+2017.
+
+82 Ben Machol, Sarah Rizk, “Economic value of US fossil fuel electricity health impacts,” Environment International, vol. 52,
+
+February 2013, pp. 75-80, via ScienceDirect, accessed February 2017.
+
+83 “Climate Change 2014: Synthesis Report,” pp. 13, accessed June 2016.
+
+32
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+84 “Will Humans Survive the Sixth Great Extinction?” National Geographic, June 23, 2015,
+
+http://news.nationalgeographic.com/2015/06/150623-sixth-extinction-kolbert-animals-conservation-science-world/,
+accessed April 2016.
+85 Rob Jordan, “Stanford Researcher Declares that the Sixth Mass Extinction Is Here,” Stanford News, June 19, 2015,
+
+https://news.stanford.edu/2015/06/19/mass-extinction-ehrlich-061915/, accessed April 2016.
+
+86 “The Extinction Crisis,” Center for Biological Diversity website, http://www.biologicaldiversity.org/programs/
+
+biodiversity/elements_of_biodiversity/extinction_crisis/, accessed September 2016.
+
+87 “Mass Extinction: What Causes Animal Die-Offs?” National Geographic website,
+
+http://science.nationalgeographic.com/science/prehistoric-world/mass-extinction/, accessed September 2016.
+88 “Threats: Climate Change,” U.S. Department of Commerce National Oceanic and Atmospheric Administration NOAA Coral
+
+Reef Conservation Program website, http://coralreef.noaa.gov/threats/climate/, accessed June 2016.
+
+89 “Ocean Acidification: Carbon Dioxide is Putting Shelled Animals at Risk,” National Geographic,
+
+http://ocean.nationalgeographic.com/ocean/critical-issues-ocean-acidification/, accessed December 2014.
+
+90 “Climate Change Indicators in the United States, 2014,” U.S. Environmental Protection Agency, 3rd Ed., 2014. p. 45.
+91 Caitlin Martin, “The Effects of Climate Change on Coral Reef Health,” Scientific American Expeditions blog, June 5, 2013,
+
+http://blogs.scientificamerican.com/expeditions/the-effects-of-climate-change-on-coral-reef-health/, accessed June 2016.
+
+92 Lauretta Burke, Kathleen Reytar, Mark Spalding, Allison Perry, “Reefs at Risk Revisited,” World Research Institute (WRI)
+
+website, 2011, http://pdf.wri.org/reefs_at_risk_revisited.pdf, accessed September 2016.
+
+93 “About Coral Reefs,” International Society for Reef Studies website, http://coralreefs.org/about-coral-reefs/, accessed
+September 2016.
+94 “Why 2 Degrees Celsius is Climate Change’s Magic Number,” PBS Newshour website, December 2, 2015,
+
+http://www.pbs.org/newshour/bb/why-2-degrees-celsius-is-climate-changes-magic-number/, accessed May 2016.
+
+95 “Climate Change 2014: Synthesis Report,” pp. 45.
+96 “Summary for Policymakers . . .,” pp. 8.
+97 Roberta Hotinski, “Stabilization Wedges: A Concept & Game,” Carbon Mitigation Initiative, Princeton Environmental
+Institute, Princeton University, March 16, 2015, https://cmi.princeton.edu/wedges/pdfs/teachers_guide.pdf, accessed
+September 2016.
+98 “Achievements of appliance energy efficiency standards and labelling programs,” Edition 2015, International Energy
+
+Agency, pp. 1-4, https://www.iea.org/publications/freepublications/publication/4E_S_L_Report_180915.pdf, accessed
+January 2016.
+
+99 “Achievements of appliance energy efficiency standards and labelling programs.”
+100 “Energy-Efficiency Standards and Green Building Certification Systems Used by the Department of Defense for Military
+
+Construction and Major Renovations,” National Research Council, The National Academies Press, 2013, available at
+https://www.nap.edu/catalog/18282/energy-efficiency-standards-and-green-building-certification-systems-used-by-thedepartment-of-defense-for-military-construction-and-major-renovations, accessed January 2017.
+101 “Realizing the Potential of Energy Efficiency,” United Nations Foundation, 2007, http://www.globalproblems-
+
+globalsolutions-files.org/unf_website/PDF/realizing_potential_energy_efficiency.pdf, accessed December 2014.
+
+102 “Summary for Policymakers . . .,” pp. 26.
+103 Richard Dobbs, Jeremy Oppenheim, Fraser Thompson, Marcel Brinkman, Marc Zornes, “Resource Revolution: Meeting the
+
+World’s Energy, Materials, Food, and Water Needs,” McKinsey Global Institute, November 2011, pp. 72,
+http://riskybusiness.org/site/assets/uploads/2015/09/RiskyBusiness_Report_WEB_09_08_14.pdf, accessed June 2016.
+
+104 “Energy Efficiency Market Report 2015,” IEA website, 2015, pp. 3, https://www.iea.org/publications/freepublications/
+
+publication/MediumTermEnergyefficiencyMarketReport2015.pdf, accessed April 2016.
+105 “Summary for Policymakers . . .,” pp. 18, accessed July 2014.
+
+106 International Energy Agency, “Key World Energy Trends. Excerpt from: World Energy Balances,” 2016 using 2014 data, pp.
+
+4, https://www.iea.org/publications/freepublications/publication/KeyWorldEnergyTrends.pdf, accessed August 2016.
+
+33
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+107 International Energy Agency, “Key World Energy Trends. Excerpt from: World Energy Balances,” 2016 using 2014 data, pp.
+
+4, https://www.iea.org/publications/freepublications/publication/KeyWorldEnergyTrends.pdf, accessed December 2016.
+
+108 “Photovoltaics Report,” Fraunhofer Institute for Solar Energy Systems, ISE, November 17, 2016, available at
+
+https://issuu.com/kanagagnana/docs/2016-11-17_photovoltaics_report , accessed December 2016.
+
+109 “Electricity Data Browser: Average retail price of electricity, annual,” U.S. Energy Information Administration,
+
+https://www.eia.gov/electricity/data/browser, accessed December 2016.
+
+110 “Lazard’s Levelized Cost of Energy Analysis—Version 7.0,” Lazard, August 2013, pp. 2, http://gallery.mailchimp.com/
+
+ce17780900c3d223633ecfa59/files/Lazard_Levelized_Cost_of_Energy_v7.0.1.pdf, accessed September 2014.
+
+111 “Revolution Now: The Future Arrives for Four Clean Energy Technologies,” U.S. Department of Energy, September 17,
+
+2013, pp. 2-4, http://energy.gov/sites/prod/files/2013/09/f2/200130917-revolution-now.pdf, accessed September 2014.
+
+112 “Why Clean Energy Can Withstand Changing Political Winds,” Forbes, Nov 23, 2016,
+
+http://www.forbes.com/sites/morganstanley/2016/11/23/why-clean-energy-can-withstand-changing-politicalwinds/#6686e6543ef3, accessed January 2017.
+113 Stefan Pfenninger, Paul Gauche, Johan Lilliestam, Kerstin Damerau, Fabian Wagner, and Anthony Patt,
+“Potential for Concentrating Solar Power to Provide Baseload and Dispatchable Power,” Nature Climate Change, June 22, 2014,
+pp. 689, http://www.nature.com/nclimate/journal/v4/n8/full/nclimate2276.html, accessed June 2016.
+114 Pfenninger, et al., pp. 690, accessed June 2016.
+115 William A. Sahlman, Ramana Nanda, Joseph B. Lassiter III, and James Mcquade, “TerraPower,” HBS No. 813-108 (Boston:
+Harvard Business School Publishing, 2013), p. 7.
+116 “Sources of Greenhouse Gas Emissions,” United States Environmental Protection Agency website,
+
+https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions, accessed January 2017.
+
+117 “Redrawing the Energy-Climate Map,” International Energy Agency, June 10, 2013, pp. 16,
+
+http://www.iea.org/publications/freepublications/publication/weo_special_report_2013_redrawing_the_energy_climate_m
+ap.pdf, accessed September 2016.
+
+118 Nancy L. Harris, Sandra Brown, Stephen C. Hagen, Sassan S. Saatchi, Silvia Pertova, William Salas, Matthew C. Hansen,
+
+Peter V. Potapov, and Alexander Lotsch, “Baseline Map of Carbon Emission from Deforestation in Tropical Regions,” Science
+Magazine, May 3, 2012, p. 1573-1576, http://www.sciencemag.org/content/336/6088/1573.abstract, accessed September 2014.
+
+119 “Forests and Climate Change,” Food and Agriculture Organization of the United Nations,
+
+http://www.fao.org/docrep/005/ac836e/AC836E03.htm, accessed September 2014.
+
+120 Dominic Woolf, James E. Amonette, F. Alayne Street-Perrott, Johannes Lehmann, and Stephen Joseph, “Sustainable Biochar
+
+to Mitigate Global Climate Change,” Nature Communications, August 10, 2010, http://www.nature.com/articles/ncomms1053,
+accessed September 2016.
+121 Peter Winsley, “Biochar and Bioenergy Production for Climate Change Mitigation,” New Zealand Science Review, vol. 64 (1),
+
+2007, http://www.biochar-international.org/images/NZSR64_1_Winsley.pdf, accessed September 2016.
+
+122 “Key facts and findings: By the numbers: GHG emissions by livestock,” Food and Agriculture Organization of the United
+
+Nations, http://www.fao.org/news/story/en/item/197623/icode/, accessed September 2016.
+
+123 “Mobilizing Bright Science for Project ‘Clean Cow,’” DSM website, https://www.dsm.com/corporate/science/
+
+competences/chemical-sciences/project-clean-cow.html, accessed September 2016.
+
+124 “Key facts and findings . . ..”
+125 Erin O’Donnell, “Buffering the Sun,” Harvard Magazine, August 2013, http://harvardmagazine.com/2013/07/buffering-
+
+the-sun, accessed August 2014.
+
+126 O’Donnell.
+127 Sarah Fecht, “U.K. Researchers to Test ‘Artificial Volcano’ for Geoengineering the Climate,” Scientific American, September
+
+14, 2011, http://www.scientificamerican.com/article/uk-researchers-to-test-artificial-volcano-for-geoengineering-theclimate/, accessed September 2016.
+128 Fecht.
+129 Fecht.
+
+34
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+130 Damian Carrington, “Geoengineering could prevent climate effects caused by giant volcanic eruptions,” The Guardian,
+
+November 6, 2016, https://www.theguardian.com/environment/2014/nov/06/geoengineering-could-prevent-climateeffects-caused-by-giant-volcanic-eruptions, accessed September 2016.
+131 O’Donnell.
+
+132 Alan Robock, Luke Oman, and Georgiy L. Stenchikov, “Regional Climate Responses to Geoengineering with Tropical and
+
+Artic SO2 Injections, Journal of Geophysical Research, August 16, 2008, p. 1,
+http://climate.envsci.rutgers.edu/pdf/2008JD010050small.pdf, accessed August 2014.
+
+133 Dimitri Zenghelis, “How much will it cost to cut global greenhouse gas emissions?,” The London School of Economics and
+
+Political Science Grantham Research Institute on Climate Change and the Environment website, October 27, 2014,
+http://www.lse.ac.uk/GranthamInstitute/faqs/how-much-will-it-cost-to-cut-global-greenhouse-gas-emissions/, accessed
+April 2016.
+134 Marshall Burke, Solomon M. Hsiang, and Edward Miguel, “Global Non-Linear Effect of Temperature on Economic
+Production,” Nature, November 12, 2015, 527, pp. 235–239,
+http://www.nature.com/nature/journal/v527/n7577/full/nature15725.html, accessed June 2016.
+135 “Technical Support Document: ­Technical Update of the Social Cost of Carbon for Regulatory Impact Analysis ­Under
+
+Executive Order 12866,” Interagency Working Group on Social Cost of Greenhouse Gases, United States Government, August
+2016, https://www.epa.gov/sites/production/files/2016-12/documents/sc_co2_tsd_august_2016.pdf, accessed December
+2016.
+
+136 “Coal Explained: Coal Prices and Outlook,” U.S. Energy Information Administration, August 10, 2016,
+
+http://www.eia.gov/energyexplained/index.cfm?page=coal_prices, accessed January 2017.
+
+137 “Global Carbon Atlas,” Global Carbon Project, http://www.globalcarbonatlas.org/en/CO2-emissions, accessed December
+
+2016.
+
+138 “Carbon Dioxide Emissions Coefficients,” U.S. Energy Information Administration,
+
+https://www.eia.gov/environment/emissions/co2_vol_mass.cfm, accessed January 2017.
+139 David Coady, Ian Parry, Louis Sears, and Baoping Shang, “How Large Are Global Fossil Fuel Subsidies?” World
+
+Development, vol. 91, March 2017, pp. 11-27, via ScienceDirect, accessed January 2017.
+
+140 Coady, et. al.
+141 “Country-level energy subsidy estimates,” IMF and Reforming Energy Subsidies, International Monetary Fund,
+http://www.imf.org/external/np/fad/subsidies/#mes, accessed January 2017.
+142 “Table 3.6 Consumer Expenditure Estimates for Energy by End-Use Sector, 1970-2010,” Annual Energy Review 2011, U.S.
+Energy Information Administration, September 2012, https://www.eia.gov/totalenergy/data/annual/pdf/aer.pdf, pp. 79,
+accessed January 2017.
+143 Numerous sources include: David A. Weisbach and Cass R. Sunstein, “Climate Change and Discounting the Future: A
+
+Guide for the Perplexed,” working paper, August 12, 2008, available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1223448; Lawrence H. Goulder and Roberton C. Williams III, “The
+Choice of Discount Rate for Climate Change Policy Evaluation,” Climate Change Economics, vol. 3, no. 4, 2012,
+http://web.stanford.edu/~goulder/Papers/Published%20Papers/Choice%20of%20Discount%20Rate%20for%20Cl%20Ch%20
+Policy%20Evals%20(Goulder-Williams,%20CCE%202012).pdf; Hilary Greaves, “Discounting for climate change: A critical
+survey,” working paper, 2015, http://users.ox.ac.uk/~mert2255/papers/discounting.pdf; Peter Howard and Derek Sylvan,
+“Expert Consensus on the Economics of Climate Change,” Institute for Policy Integrity New York University School of Law,
+2015, http://policyintegrity.org/files/publications/ExpertConsensusReport.pdf; all accessed September 2016.
+144 “Hurricane Irene one year later: Storm cost $15.8 in damage from Florida to New York to the Caribbean,” The Associated
+
+Press in NY Daily News, August 27, 2012, http://www.nydailynews.com/new-york/hurricane-irene-year-storm-cost-15-8damage-florida-new-york-caribbean-article-1.1145302, accessed September 2016.
+
+145 Joseph E. Aldy “Mobilizing Political Action on Behalf of Future Generations” The Future of Children, Vol. 26, No. 1, Spring
+
+2016, 157-178.
+
+146 See, for an influential meditation on this issue, Henry Shue, Climate Justice: Vulnerability and Protection (Cambridge:
+
+Cambridge University Press, 2014).
+
+35
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+147 Jeffrey Ball, “Climate Change is Now in the Developing World’s Hands,” Slate, November 29, 2013,
+
+http://www.slate.com/articles/health_and_science/energy_around_the_world/2013/11/warsaw_climate_talks_developing_
+countries_will_be_source_of_greenhouse_gas.single.html, accessed December 2014.
+
+148 “Climate Futures.”
+149 “Economics of Climate Change,” U.S. Environmental Protection Agency website,
+
+http://yosemite.epa.gov/EE%5Cepa%5Ceed.nsf/webpages/ClimateEconomics.html, accessed August 2014.
+
+150 Winston Harrington and Richard D. Morgenstern, “Economic Incentives versus Command and Control,” Resources for the
+
+Future, Fall/Winter 2004, pp. 15, http://www.rff.org/rff/Documents/RFF_Resources_152_ecoincentives.pdf, accessed
+August 2014.
+
+151 Richard Schmalensee and Robert N. Stavins, “Lessons Learned from Three Decades of Experience with Cap-and-Trade,”
+
+prepared for the Review of Environmental Economics and Policy and available as a discussion paper 15-51 for Resources for
+the Future, November 2015, http://www.rff.org/files/document/file/RFF-DP-15-51.pdf, accessed September 2016.
+
+152 Roger Hinrichs and Merlin Kleinbach, Energy: Its Use and the Environment, Brooks/Cole, Cengage Learning, January 1, 2012,
+
+p. 255, http://books.google.com/books?id=Q-9dza3IOCsC&pg=PA255&lpg=PA255&dq=acid+rains+levels+drop+by+
+65%25&source=bl&ots=H8j13r5aqP&sig=T5u76g9rrs958xuwzTP0L9ugeX4&hl=en&sa=X&ei=uXqAVKOTLI6QyASflYHQDA&
+ved=0CEAQ6AEwBA#v=onepage&q=acid%20rains%20levels%20drop%20by%2065%25&f=false, accessed December 2014.
+
+153 Ronald J. Shadbegian, Wayne B. Gray, and Cynthia L. Morgan, “Benefits and Costs from Sulfur Dioxide Trading: A
+
+Distributional Analysis,” EPA National Center for Environmental Economics, Working Paper # 05-09, December 2005,
+https://www.epa.gov/sites/production/files/2014-12/documents/benefits_and_costs_from_sulfur_dioxide.pdf, accessed
+September 2016.
+154 “What is a Carbon Tax?” British Columbia Ministry of Finance website,
+
+http://www.fin.gov.bc.ca/tbs/tp/climate/A1.htm, accessed August 2014.
+
+155 Eduardo Porter, “A Carbon Tax Could Bolster Green Energy,” The New York Times, November 18, 2014,
+
+http://www.nytimes.com/2014/11/19/business/economy/a-carbon-tax-could-bolster-wobbly-progress-in-renewableenergy.html?_r=0, accessed December 2014.
+156 National Research Council of the National Academies, Limiting the Magnitude of Future Climate Change (Washington D.C.:
+
+The National Academies Press, 2010), p. 91.
+
+157 “A Summary of the Kyoto Protocol,” United National Framework Convention on Climate Change website,
+http://unfccc.int/kyoto_protocol/background/items/2879.php, accessed August 2014.
+158 “A Summary of the Kyoto Protocol,” United National Framework Convention on Climate Change website,
+http://unfccc.int/kyoto_protocol/background/items/2879.php, accessed August 2014.
+159 Greg Kahn, “The Fate of the Kyoto Protocol Under the Bush Administration,” Berkeley Journal of International Law, 2003, p. 3,
+
+http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1248&context=bjil, accessed December 2014.
+
+160 “Historic Paris Agreement on Climate Change—195 Nations Set Path to Keep Temperature Rise Well Below 2 Degrees
+
+Celsius,” Press Release, United Nations Framework Convention on Climate Change, December 12, 2015,
+http://newsroom.unfccc.int/unfccc-newsroom/finale-cop21/, accessed May 2016.
+
+161 Annegrete Bruvoll, “Greenhouse Gas Emission in Norway: Do Carbon Taxes Work?” Statistics Norway Research
+
+Department, December 2002, p. 10, http://www.ssb.no/a/publikasjoner/pdf/DP/dp337.pdf, accessed September 2014.
+
+162 Rob Taylor and Rhiannon Hoyle, “Australia Becomes First Developed Nation to Repeal Carbon Tax,” The Wall Street
+
+Journal, July 17, 2014, http://online.wsj.com/articles/australia-repeals-carbon-tax-1405560964, accessed August 2014.
+
+163 “Australia Introduces Controversial Carbon Tax,” BBC, July 1, 2012, http://www.bbc.com/news/world-asia-18662560,
+
+accessed August 2014.
+
+164 “Memorandum of Understanding,” Regional Greenhouse Gas Initiative website, http://rggi.org/design/history/mou,
+
+accessed August 2014.
+
+165 “The Economic Impact of the Regional Greenhouse Gas Initiative on Ten Northeast and Mid-Atlantic States,” Analysis
+
+Group, November 15, 2011, http://www.analysisgroup.com/uploadedfiles/publishing/articles/
+economic_impact_rggi_report.pdf, accessed December 2014.
+
+36
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+166 Rory Carroll, “Analysis: Strong Start for California Carbon Market, but Challenges Loom,” Reuters, December 20, 2013,
+
+http://www.reuters.com/article/2013/12/20/us-california-carbon-market-analysis-idUSBRE9BJ17U20131220, accessed
+August 2014.
+
+167 “Carbon Tax,” British Columbia Ministry of Finance website, http://www.fin.gov.bc.ca/tbs/tp/climate/carbon_tax.htm,
+
+accessed December 2014.
+
+168 “Carbon Tax,” British Columbia Ministry of Finance website, http://www.fin.gov.bc.ca/tbs/tp/climate/carbon_tax.htm,
+
+accessed December 2014.
+
+169 “British Columbia’s carbon tax: The evidence mounts,” The Economist, July 31, 2014,
+
+http://www.economist.com/blogs/americasview/2014/07/british-columbias-carbon-tax, accessed September 2016.
+
+170 Ian Austen, “Canada Strikes a Deal to Cut Carbon Emissions by Putting a Price on Them,” New York Times, December 9,
+
+2016, http://www.nytimes.com/2016/12/09/world/americas/canada-carbon-emissions-taxes-cap-and-trade.html, accessed
+December 2016.
+171 Kate Gordon, “Why Renewable Energy Still Needs Subsidies,” The Wall Street Journal, Sept. 14, 2015,
+http://blogs.wsj.com/experts/2015/09/14/why-renewable-energy-still-needs-subsidies/, accessed April 2016.
+172 Emma Rumney, “China is world’s largest investor in renewable energy,” Public Finance International, March 31, 2016,
+
+http://www.publicfinanceinternational.org/news/2016/03/china-worlds-largest-investor-renewable-energy, accessed
+September 2016.
+173 “China’s Clean Energy Exceeds 20% of Power Generation in 2015,” Bloomberg News, August 24, 2016,
+
+http://www.bloomberg.com/news/articles/2016-08-24/china-s-clean-energy-exceeds-20-of-power-generation-in-2015,
+accessed September 2016.
+174 Jocelyn Durkay, “State Renewable Portfolio Standards and Goals,” National Conference of State Legislatures website, July
+
+27, 2016, http://www.ncsl.org/research/energy/renewable-portfolio-standards.aspx, accessed September 2016.
+
+175 Michael Kavanagh, “A world map of subsidies for renewable energy and fossil fuels,” Financial Times, July 26, 2016,
+http://www.ft.com/cms/s/2/fb264f96-5088-11e6-8172-e39ecd3b86fc.html#axzz4JbSJgjPI, accessed September 2016.
+176 “Green Generation: Milennials Say Sustainability Is A Shopping Priority,” Nielsen website, November 5, 2015,
+
+http://www.nielsen.com/us/en/insights/news/2015/green-generation-millennials-say-sustainability-is-a-shoppingpriority.html, accessed September 2016.
+177 Kelsey Lindsey, “Why Wal-Mart Is a Retail Sustainability Leader (but Doesn’t Really Want to Talk About It,” Retail Dive,
+
+August 9, 2016, http://www.retaildive.com/news/why-wal-mart-is-a-retail-sustainability-leader-but-doesnt-really-wantto/423713/, accessed September 2016.
+
+178 “About Greenwashing,” Greenwashing Index website, http://greenwashingindex.com/about-greenwashing/, accessed
+
+September 2016.
+
+179 “Sustainability: Making a Difference,” McDonald’s website, http://corporate.mcdonalds.com/mcd/sustainability.html;
+
+“McVictory: Victory as Fast Food Giant Pledges to Help Protect the Amazon,” Greenpeace International website, July 25, 2006,
+http://www.greenpeace.org/international/en/news/features/McVictory-200706/, both accessed September 2016.
+
+180 Unilever, RSPO website, http://www.rspo.org/members/107/unilever, accessed September 2016.
+181 “Kimberly-Clark Announces Ambitious Sustainable Development Goal for Forest Use,” Kimberly-Clark press release, June
+
+18, 2012, http://investor.kimberly-clark.com/releasedetail.cfm?ReleaseID=683471, accessed September 2016.
+
+182 Tim McDonnell, “Climate Change Is Kicking the Insurance Industry’s Butt,” Mother Jones, October 22, 2014,
+http://www.motherjones.com/environment/2014/10/climate-insurance, accessed September 2016.
+183 “What Is an Internal Carbon Price, and Should My Business Implement One?” Triple Pundit website, December 21, 2015,
+
+http://www.triplepundit.com/2015/12/what-is-an-internal-carbon-price-and-should-my-business-implement-one/, accessed
+September 2016.
+
+184 “What Is an Internal Carbon Price, and Should My Business Implement One?” Triple Pundit website, December 21, 2015,
+
+http://www.triplepundit.com/2015/12/what-is-an-internal-carbon-price-and-should-my-business-implement-one/, accessed
+September 2016.
+185 Paul Spedding, Kirtan Mehta, Nick Robins, “Oil & carbon revisited: Value at risk from ‘unburnable’ reserves,” HSBC
+
+Global Research, January 25, 2013, available at http://dcdivest.org/wp-content/uploads/2015/10/HSBCOilJan13.pdf,
+accessed September 2016.
+
+37
+
+317-032
+
+Climate Change in 2018: Implications for Business
+
+186 Damian Carrington, “Carbon bubble will plunge the world into another financial crisis—report,” The Guardian, April 18,
+
+2013, https://www.theguardian.com/environment/2013/apr/19/carbon-bubble-financial-crash-crisis, accessed September
+2016.
+187 Suzanne Goldenberg, “ExxonMobil gave millions to climate-denying lawmakers despite pledge,” The Guardian, July 15,
+
+2015, https://www.theguardian.com/environment/2015/jul/15/exxon-mobil-gave-millions-climate-denying-lawmakers,
+accessed September 2016.
+188 “Koch Industries,” Forbes, http://www.forbes.com/companies/koch-industries/, accessed September 2016.
+189 “Koch Industries: Secretly Funding the Climate Denial Machine,” Greenpeace website,
+
+http://www.greenpeace.org/usa/global-warming/climate-deniers/koch-industries/, accessed September 2016.
+
+190 “Smoke, Mirrors & Hot Air,” Union of Concerned Scientists, January 2007, p. 1 http://www.ucsusa.org/sites/default/
+
+files/legacy/assets/documents/global_warming/exxon_report.pdf, accessed December 2014.
+
+191 “Smoke, Mirrors & Hot Air,” Union of Concerned Scientists, January 2007, p. 1 http://www.ucsusa.org/sites/default/
+
+files/legacy/assets/documents/global_warming/exxon_report.pdf, accessed December 2014.
+
+192 Frankfurt School of Finance & Management gGmbH 2016, “Global Trends in Renewable Energy Investment 2016,” United
+
+Nations Environment Programme and Bloomberg New Energy Finance, available at http://fs-unep-centre.org/sites/default/
+files/publications/globaltrendsinrenewableenergyinvestment2016lowres_0.pdf, accessed February 2017.
+
+193 “Clean Energy Defies Fossil Fuel Price Crash To Attract Record $329bn Global Investment In 2015,”Press Release,
+
+Bloomberg New Energy Finance, January 14, 2016, https://about.bnef.com/press-releases/clean-energy-defies-fossil-fuelprice-crash-to-attract-record-329bn-global-investment-in-2015/, accessed December 2016.
+194 “Global EV Outlook 2016,” International Energy Agency,
+
+https://www.iea.org/publications/freepublications/publication/Global_EV_Outlook_2016.pdf, accessed December 2016.
+
+195 Liebreich, Michael, “Bloomberg New Energy Finance Summit 2015,” April 14, 2015,
+
+https://data.bloomberglp.com/bnef/sites/4/2015/04/bnef_2015-04-14-summit-keynote-11.pdf, accessed December 2016.
+
+196 Randall, Tom, “Here’s How Electric Cars Will Cause the Next Oil Crisis,” Bloomberg, February 25, 2016,
+
+http://www.bloomberg.com/features/2016-ev-oil-crisis/, accessed December 2016.
+
+197 “Tesla’s Revenue from FY 2008 to FY 2015 (in million U.S. dollars),” via Statista, accessed September 2016.
+198 General Motors Company, Form 10-K, 2015, https://www.gm.com/content/dam/gm/en_us/english/Group4/
+InvestorsPDFDocuments/10-K.pdf, accessed September 2016.
+199 Douglas A. McIntyre, “Tesla Market Cap Hits Half of GM’s,” 247 Wall St., June 22, 2015,
+
+http://247wallst.com/autos/2015/06/22/tesla-market-cap-hits-half-of-gms/, accessed September 2016.
+
+200 Frederika Whitehead, “Lessons from Denmark: how district heating could improve energy security,” The Guardian, August
+
+20, 2014, https://www.theguardian.com/big-energy-debate/2014/aug/20/denmark-district-heating-uk-energy-security,
+accessed December 2016.
+
+201 “Smart Growth and Climate Change,” U.S. Environmental Protection Agency, https://www.epa.gov/smartgrowth/smart-
+
+growth-and-climate-change, accessed December 2016.
+
+202 “A Roadmap For A Renewable Energy Future, 2016 Edition,” International Renewable Energy Agency,
+
+http://www.irena.org/DocumentDownloads/Publications/IRENA_REmap_2016_edition_report.pdf, accessed December
+2016.
+
+203 “Schneider Electric introduces Continuous Efficiency—a new approach to global energy management,” PR Newswire,
+
+October 25, 2016, http://www.prnewswire.com/news-releases/schneider-electric-introduces-continuous-efficiency--a-newapproach-to-global-energy-management-300350078.html, accessed January 2017.
+204 “Eco-Design,” Schneider Electric, http://www2.schneider-electric.com/sites/corporate/en/group/sustainable-
+
+development-and-foundation/environment-protection/eco-design.page, access January 2017.
+
+205 Cecilia Shutters and Robb Tufts, “LEED by the numbers: 16 years of steady growth,” U.S. Green Building Council website,
+
+May 27, 2016, http://www.usgbc.org/articles/leed-numbers-16-years-steady-growth, accessed September 2016.
+
+206 “Energy efficient lighting market to reach market size of $173.4 billion by 2016,” InterLumi website, October 22, 2015,
+
+http://www.inter-lumi.com/m_article/27-Energy-efficient-lighting-market-to-reach-market-size-of-1734-billion-by-2016.html,
+accessed September 2016.
+
+38
+
+Climate Change in 2018: Implications for Business
+
+317-032
+
+207 “Winning on our Strengths,” Johnson Controls website, http://www.johnsoncontrols.com/corporate-
+
+sustainability/reporting-and-policies/business-and-sustainability-report/message-to-stakeholders, accessed September 2016.
+
+208 “Johnson Controls reports double digit increase in 2016 second quarter adjusted earnings per share; raises fiscal year 2016
+
+earnings guidance,” Johnson Controls press release, April 21, 2016, http://www.johnsoncontrols.com/mediacenter/news/press-releases/2016/04/21/johnson-controls-reports-double-digit-increase-in-2016-second-quarter-adjustedearnings-per-share-raises-fiscal-year-2016-earnings-guidance, accessed September 2016.
+209 “Micro Irrigation Systems Market 2015-2019 with Netafim, The Toro Company, Jain Irrigation Systems & Rain Bird
+
+Dominating the $2.22 Billion Market,” PR Newswire, April 8, 2015, http://www.prnewswire.com/news-releases/microirrigation-systems-market-2015-2019-with-netafim-the-toro-company-jain-irrigation-systems--rain-bird-dominating-the-222billion-market-300062943.html, accessed September 2016.
+210 Nell Greenfieldboyce, “2016 Was The Hottest Year Yet, Scientists Declare,” NPR, January 18, 2017, http://www.npr.org/
+sections/thetwo-way/2017/01/18/510405739/2016-was-the-hottest-year-yet-scientists-declare, accessed January 2017.
+211 For all parameters, the 10th to 90th percentile of the scenarios is shown, 1, 2. 1 The ‘total range’ for the 430–480 ppm CO2eq
+
+scenarios corresponds to the range of the 10th–90th percentile of the subcategory of these scenarios shown in Table 6.3. 2
+Baseline scenarios (see SPM.3) fall into the >1000 and 720–1000ppm CO2eq categories. The latter category also includes
+mitigation scenarios. The baseline scenarios in the latter category reach a temperature change of 2.5–5.8°C above preindustrial
+in 2100. Together with the baseline scenarios in the >1000ppm CO2eq category, this leads to an overall 2100 temperature range
+of 2.5–7.8°C (range based on median climate response: 3.7–4.8°C) for baseline scenarios across both concentration categories. 3
+For comparison of the cumulative CO2 emissions estimates assessed here with those presented in WGI, an amount of 515 [445–
+585] GtC (1890 [1630–2150] GtCO2), was already emitted by 2011 since 1870 [Section WGI 12.5]. Note that cumulative
+emissions are presented here for different periods of time (2011–2050 and 2011–2100) while cumulative emissions in WGI are
+presented as total compatible emissions for the RCPs (2012–2100) or for total compatible emissions for remaining below a given
+temperature target with a given likelihood [WGI Table SPM.3, WGI SPM.E.8]. 4 The global 2010 emissions are 31% above the
+1990 emissions (consistent with the historic GHG emission estimates presented in this report). CO2eq emissions include the
+basket of Kyoto gases (CO2, CH4, N2O as well as F-gases). 5 The assessment in WGIII involves a large number of scenarios
+published in the scientific literature and is thus not limited to the RCPs. To evaluate the CO2eq concentration and climate
+implications of these scenarios, the MAGICC model was used in a probabilistic mode (see Annex II). For a comparison
+between MAGICC model results and the outcomes of the models used in WGI, see Sections WGI 12.4.1.2 and WGI 12.4.8 and
+6.3.2.6. Reasons for differences with WGI SPM Table.2 include the difference in reference year (1986–2005 vs. 1850–1900 here),
+difference in reporting year (2081–2100 vs 2100 here), set-up of simulation (CMIP5 concentration driven versus MAGICC
+emission-driven here), and the wider set of scenarios (RCPs versus the full set of scenarios in the WGIII AR5 scenario database
+here). 6 Temperature change is reported for the year 2100, which is not directly comparable to the equilibrium warming
+reported in WGIII AR4 [Table 3.5, Chapter 3]. For the 2100 temperature estimates, the transient climate response (TCR) is the
+most relevant system property. The assumed 90% range of the TCR for MAGICC is 1.2–2.6 °C (median 1.8 °C). This compares
+to the 90% range of TCR between 1.2–2.4 °C for CMIP5 [WGI 9.7] and an assessed likely range of 1–2.5 °C from multiple lines
+of evidence reported in the WGI AR5 [Box 12.2 in Section 12.5]. 7 Temperature change in 2100 is provided for a median
+estimate of the MAGICC calculations, which illustrates differences between the emissions pathways of the scenarios in each
+category. The range of temperature change in the parentheses includes in addition the carbon cycle and climate system
+uncertainties as represented by the MAGICC model [see 6.3.2.6 for further details]. The temperature data compared to the
+1850–1900 reference year was calculated by taking all projected warming relative to 1986–2005, and adding 0.61 °C for 1986–
+2005 compared to 1850–1900, based on HadCRUT4 [see WGI Table SPM.2]. 8 The assessment in this table is based on the
+probabilities calculated for the full ensemble of scenarios in WGIII using MAGICC and the assessment in WGI of the
+uncertainty of the temperature projections not covered by climate models. The statements are therefore consistent with the
+statements in WGI, which are based on the CMIP5 runs of the RCPs and the assessed uncertainties. Hence, the likelihood
+statements reflect different lines of evidence from both WGs. This WGI method was also applied for scenarios with
+intermediate concentration levels where no CMIP5 runs are available. The likelihood statements are indicative only [6.3], and
+follow broadly the terms used by the WGI SPM for temperature projections: likely 66–100%, more likely than not >50–100%,
+about as likely as not 33–66%, and unlikely 0–33%. In addition the term more unlikely than likely 0– 0–33%. In addition the
+term more unlikely than likely 0–<50% is used. 9 The CO2-equivalent concentration includes the forcing of all GHGs including
+halogenated gases and tropospheric ozone, as well as aerosols and albedo change (calculated on the basis of the total forcing
+from a simple carbon cycle/climate model, MAGICC). 10 The vast majority of scenarios in this category overshoot the category
+boundary of 480 ppm CO2eq concentrations. 11 For scenarios in this category no CMIP5 run [WGI Chapter 12, Table 12.3] as
+well as no MAGICC realization [6.3] stays below the respective temperature level. Still, an unlikely assignment is given to
+reflect uncertainties that might not be reflected by the current climate models. 12 Scenarios in the 580–650 ppm CO2eq category
+include both overshoot scenarios and scenarios that do not exceed the concentration level at the high end of the category (like
+RCP4.5). The latter type of scenarios, in general, have an assessed probability of more unlikely than likely to stay below the 2
+°C temperature level, while the former are mostly assessed to have an unlikely probability of staying below this level.
+
+39
+
+
