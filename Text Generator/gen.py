@@ -1,12 +1,8 @@
-# pdf to text https://pdftotext.com/
 import random
 import math
 import nltk
 from nltk.corpus import opinion_lexicon
 
-
-# directory = "../../../../../CourseMaterials/gutenberg/data/text/PG"
-# books = [1155, 61, 863]
 reports = ["sr15_spm_final",
            "ST1.5_OCE_LR",
            "global_warming_free_state_report",
@@ -111,16 +107,17 @@ def genText():
         if seed[len(seed) - 1] in ".!?":
             sent += 1
 
-    print(out)
-    # f = open("out.txt", "a+")
-    # f.write(out)
-    # f.close()
+#    print(out)
+    f = open("out.txt", "a+")
+    f.write(out)
+    f.write("\n\n\n")
+    f.close()
 
 def main():
-    # for book in books:
-    #     makeDict(read(book))
     for report in reports:
-        makeDict(read(report))
+        makeDict(read("Text/" + report))
+#        makeDict(biasRead("Text/" + report, 'pos'))
+#        makeDict(biasRead("Text/" + report, 'neg'))
 
     genText()
 
@@ -129,10 +126,17 @@ if __name__ == "__main__":
 
 # STUFF TO WORK ON
 # start can not have a period --> DONE
-# FIX QUOTES, parentheses, brackets, etc. everything that comes in pairs --> NEEDS TESTING
+# FIX QUOTES, parentheses, brackets, etc. everything that comes in pairs --> DONE
 #   read through array, find quote to next quote then mash together all indices
 #   in between to create quote as one seed, same for parenthese etc.
-# separate reports by introdution, header, evidence, etc.
+# separate reports by introdution, header, evidence, etc. --> manually done
 # use ntlk positive sentiments to make BIASED reports yum yum --> IN PROGRESS
 # add weights?
 # every sentence must have a subject / verb
+
+# HOW TO FOOL ROLAND 101
+# - want big words paragraph --> one real, one generated + editing
+# - have him read side by side to compare
+# - go multiple times, with multiple paragraphs
+# - time how long it takes to recognize, or forfeit time if he gets it wrong
+# OWO WE DID IT
