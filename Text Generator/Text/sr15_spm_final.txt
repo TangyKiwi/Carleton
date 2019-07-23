@@ -221,18 +221,13 @@ warming of 1.5°C and 2°C above pre-industrial levels. The level of confidence 
 the IPCC calibrated language.3 The underlying scientific basis of each key finding is indicated by references provided to chapter
 elements. In the SPM, knowledge gaps are identified associated with the underlying chapters of the Report.
 
-A.
-
 Understanding Global Warming of 1.5°C
-
-A.1
 
 Human activities are estimated to have caused approximately 1.0°C of global warming5 above
 pre-industrial levels, with a likely range of 0.8°C to 1.2°C. Global warming is likely to reach 1.5°C
 between 2030 and 2052 if it continues to increase at the current rate. (high confidence) (Figure
 SPM.1) {1.2}
 
-A.1.1
 
 Reflecting the long-term warming trend since pre-industrial times, observed global mean surface temperature (GMST) for
 the decade 2006–2015 was 0.87°C (likely between 0.75°C and 0.99°C)6 higher than the average over the 1850–1900
@@ -246,13 +241,10 @@ Warming greater than the global annual average is being experienced in many land
 three times higher in the Arctic. Warming is generally higher over land than over the ocean. (high confidence) {1.2.1, 1.2.2,
 Figure 1.1, Figure 1.3, 3.3.1, 3.3.2}
 
-A.1.3
-
 Trends in intensity and frequency of some climate and weather extremes have been detected over time spans during which
 about 0.5°C of global warming occurred (medium confidence). This assessment is based on several lines of evidence,
 including attribution studies for changes in extremes since 1950. {3.3.1, 3.3.2, 3.3.3}
 
-4
 
 1 Decision 1/CP.21, paragraph 21.
 2 The assessment covers literature accepted for publication by 15 May 2018.
@@ -266,24 +258,20 @@ for example, very likely. This is consistent with AR5.
 6 This range spans the four available peer-reviewed estimates of the observed GMST change and also accounts for additional uncertainty due to possible short-term natural variability.
 {1.2.1, Table 1.1}
 
-6
 
-Summary for Policymakers
-
-A.2
 
 Warming from anthropogenic emissions from the pre-industrial period to the present will persist for
 centuries to millennia and will continue to cause further long-term changes in the climate system,
 such as sea level rise, with associated impacts (high confidence), but these emissions alone are
 unlikely to cause global warming of 1.5°C (medium confidence). (Figure SPM.1) {1.2, 3.3, Figure 1.5}
 
-A.2.1
+
 
 Anthropogenic emissions (including greenhouse gases, aerosols and their precursors) up to the present are unlikely to
 cause further warming of more than 0.5°C over the next two to three decades (high confidence) or on a century time scale
 (medium confidence). {1.2.4, Figure 1.5}
 
-A.2.2
+
 
 Reaching and sustaining net zero global anthropogenic CO2 emissions and declining net non-CO2 radiative forcing would
 halt anthropogenic global warming on multi-decadal time scales (high confidence). The maximum temperature reached is
@@ -294,7 +282,7 @@ or further reductions in non-CO2 radiative forcing may still be required to prev
 feedbacks and to reverse ocean acidification (medium confidence) and will be required to minimize sea level rise (high
 confidence). {Cross-Chapter Box 2 in Chapter 1, 1.2.3, 1.2.4, Figure 1.4, 2.2.1, 2.2.2, 3.4.4.8, 3.4.5.1, 3.6.3.2}
 
-A.3
+
 
 Climate-related risks for natural and human systems are higher for global warming of 1.5°C than
 at present, but lower than at 2°C (high confidence). These risks depend on the magnitude and rate
@@ -302,48 +290,46 @@ of warming, geographic location, levels of development and vulnerability, and on
 implementation of adaptation and mitigation options (high confidence). (Figure SPM.2) {1.3, 3.3,
 3.4, 5.6}
 
-A.3.1
 
 Impacts on natural and human systems from global warming have already been observed (high confidence). Many land and
 ocean ecosystems and some of the services they provide have already changed due to global warming (high confidence).
 (Figure SPM.2) {1.4, 3.4, 3.5}
 
-A.3.2
+
 
 Future climate-related risks depend on the rate, peak and duration of warming. In the aggregate, they are larger if global
 warming exceeds 1.5°C before returning to that level by 2100 than if global warming gradually stabilizes at 1.5°C, especially
 if the peak temperature is high (e.g., about 2°C) (high confidence). Some impacts may be long-lasting or irreversible, such
 as the loss of some ecosystems (high confidence). {3.2, 3.4.4, 3.6.3, Cross-Chapter Box 8 in Chapter 3}
 
-A.3.3
+
 
 Adaptation and mitigation are already occurring (high confidence). Future climate-related risks would be reduced by the
 upscaling and acceleration of far-reaching, multilevel and cross-sectoral climate mitigation and by both incremental and
 transformational adaptation (high confidence). {1.2, 1.3, Table 3.5, 4.2.2, Cross-Chapter Box 9 in Chapter 4, Box 4.2, Box
 4.3, Box 4.6, 4.3.1, 4.3.2, 4.3.3, 4.3.4, 4.3.5, 4.4.1, 4.4.4, 4.4.5, 4.5.3}
 
-SPM
 
-7
 
-Summary for Policymakers
+
+
 
 Cumulative emissions of CO2 and future non-CO2 radiative forcing determine
 the probability of limiting warming to 1.5°C
 a) Observed global temperature change and modeled
 responses to stylized anthropogenic emission and forcing pathways
 
-SPM
+
 
 Global warming relative to 1850-1900 (°C)
-2.0
 
-1.5
+
+
 
 Observed monthly global
 mean surface temperature
 
-1.0
+
 
 Estimated anthropogenic
 warming to date and
@@ -352,16 +338,16 @@ Likely range of modeled responses to stylized pathways
 Global CO2 emissions reach net zero in 2055 while net
 non-CO2 radiative forcing is reduced after 2030 (grey in b, c & d)
 
-0.5
+
 
 Faster CO2 reductions (blue in b & c) result in a higher
 probability of limiting warming to 1.5°C
 
-2017
+
 
 No reduction of net non-CO2 radiative forcing (purple in d)
 results in a lower probability of limiting warming to 1.5°C
-0
+
 1960
 
 1980
@@ -469,15 +455,11 @@ panels b, c and d show the likely range of historical annual and cumulative glob
 non-CO2 radiative forcing in 2011 from AR5, respectively. Vertical axes in panels c and d are scaled to represent approximately equal effects on GMST. {1.2.1, 1.2.3,
 1.2.4, 2.3, Figure 1.2 and Chapter 1 Supplementary Material, Cross-Chapter Box 2 in Chapter 1}
 
-8
 
-Summary for Policymakers
-
-B.
 
 Projected Climate Change, Potential Impacts and Associated Risks
 
-B.1
+
 
 Climate models project robust7 differences in regional climate characteristics between present-day
 and global warming of 1.5°C,8 and between 1.5°C and 2°C.8 These differences include increases
@@ -486,7 +468,6 @@ inhabited regions (high confidence), heavy precipitation in several regions (med
 and the probability of drought and precipitation deficits in some regions (medium confidence).
 {3.3}
 
-B.1.1
 
 Evidence from attributed changes in some climate and weather extremes for a global warming of about 0.5°C supports
 the assessment that an additional 0.5°C of warming compared to present is associated with further detectable changes in
@@ -495,14 +476,12 @@ to 1.5°C compared to pre-industrial levels, including warming of extreme temper
 increases in frequency, intensity, and/or amount of heavy precipitation in several regions (high confidence), and an increase
 in intensity or frequency of droughts in some regions (medium confidence). {3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.4, Table 3.2}
 
-B.1.2
 
 Temperature extremes on land are projected to warm more than GMST (high confidence): extreme hot days in mid-latitudes
 warm by up to about 3°C at global warming of 1.5°C and about 4°C at 2°C, and extreme cold nights in high latitudes warm
 by up to about 4.5°C at 1.5°C and about 6°C at 2°C (high confidence). The number of hot days is projected to increase in
 most land regions, with highest increases in the tropics (high confidence). {3.3.1, 3.3.2, Cross-Chapter Box 8 in Chapter 3}
 
-B.1.3
 
 Risks from droughts and precipitation deficits are projected to be higher at 2°C compared to 1.5°C of global warming in
 some regions (medium confidence). Risks from heavy precipitation events are projected to be higher at 2°C compared to
@@ -514,7 +493,7 @@ scale is projected to be higher at 2°C than at 1.5°C of global warming (medium
 precipitation, the fraction of the global land area affected by flood hazards is projected to be larger at 2°C compared to
 1.5°C of global warming (medium confidence). {3.3.1, 3.3.3, 3.3.4, 3.3.5, 3.3.6}
 
-B.2
+
 
 By 2100, global mean sea level rise is projected to be around 0.1 metre lower with global warming
 of 1.5°C compared to 2°C (medium confidence). Sea level will continue to rise well beyond 2100
@@ -523,31 +502,25 @@ A slower rate of sea level rise enables greater opportunities for adaptation in 
 ecological systems of small islands, low-lying coastal areas and deltas (medium confidence).
 {3.3, 3.4, 3.6}
 
-B.2.1
-
 Model-based projections of global mean sea level rise (relative to 1986–2005) suggest an indicative range of 0.26 to 0.77
 m by 2100 for 1.5°C of global warming, 0.1 m (0.04–0.16 m) less than for a global warming of 2°C (medium confidence).
 A reduction of 0.1 m in global sea level rise implies that up to 10 million fewer people would be exposed to related risks,
 based on population in the year 2010 and assuming no adaptation (medium confidence). {3.4.4, 3.4.5, 4.3.2}
 
-B.2.2
 
 Sea level rise will continue beyond 2100 even if global warming is limited to 1.5°C in the 21st century (high confidence).
 Marine ice sheet instability in Antarctica and/or irreversible loss of the Greenland ice sheet could result in multi-metre rise
 in sea level over hundreds to thousands of years. These instabilities could be triggered at around 1.5°C to 2°C of global
 warming (medium confidence). (Figure SPM.2) {3.3.9, 3.4.5, 3.5.2, 3.6.3, Box 3.3}
 
-SPM
+
 
 7 Robust is here used to mean that at least two thirds of climate models show the same sign of changes at the grid point scale, and that differences in large regions are statistically
 significant.
 8 Projected changes in impacts between different levels of global warming are determined with respect to changes in global mean surface air temperature.
 
-9
 
-Summary for Policymakers
 
-B.2.3
 
 Increasing warming amplifies the exposure of small islands, low-lying coastal areas and deltas to the risks associated with
 sea level rise for many human and ecological systems, including increased saltwater intrusion, flooding and damage to
@@ -556,7 +529,7 @@ of sea level rise at global warming of 1.5°C reduces these risks, enabling grea
 managing and restoring natural coastal ecosystems and infrastructure reinforcement (medium confidence). (Figure SPM.2)
 {3.4.5, Box 3.5}
 
-B.3
+
 
 On land, impacts on biodiversity and ecosystems, including species loss and extinction, are
 projected to be lower at 1.5°C of global warming compared to 2°C. Limiting global warming to
@@ -564,7 +537,6 @@ projected to be lower at 1.5°C of global warming compared to 2°C. Limiting glo
 ecosystems and to retain more of their services to humans (high confidence). (Figure SPM.2)
 {3.4, 3.5, Box 3.4, Box 4.2, Cross-Chapter Box 8 in Chapter 3}
 
-B.3.1
 
 Of 105,000 species studied,9 6% of insects, 8% of plants and 4% of vertebrates are projected to lose over half of their
 climatically determined geographic range for global warming of 1.5°C, compared with 18% of insects, 16% of plants and
@@ -572,21 +544,19 @@ climatically determined geographic range for global warming of 1.5°C, compared 
 risks such as forest fires and the spread of invasive species are lower at 1.5°C compared to 2°C of global warming (high
 confidence). {3.4.3, 3.5.2}
 
-B.3.2
+
 
 Approximately 4% (interquartile range 2–7%) of the global terrestrial land area is projected to undergo a transformation
 of ecosystems from one type to another at 1ºC of global warming, compared with 13% (interquartile range 8–20%) at 2°C
 (medium confidence). This indicates that the area at risk is projected to be approximately 50% lower at 1.5°C compared to
 2°C (medium confidence). {3.4.3.1, 3.4.3.5}
 
-B.3.3
 
 High-latitude tundra and boreal forests are particularly at risk of climate change-induced degradation and loss, with woody
 shrubs already encroaching into the tundra (high confidence) and this will proceed with further warming. Limiting global
 warming to 1.5°C rather than 2°C is projected to prevent the thawing over centuries of a permafrost area in the range of
 1.5 to 2.5 million km2 (medium confidence). {3.3.2, 3.4.3, 3.5.5}
 
-B.4
 
 Limiting global warming to 1.5°C compared to 2ºC is projected to reduce increases in ocean
 temperature as well as associated increases in ocean acidity and decreases in ocean oxygen levels
@@ -595,14 +565,14 @@ to marine biodiversity, fisheries, and ecosystems, and their functions and servi
 as illustrated by recent changes to Arctic sea ice and warm-water coral reef ecosystems (high
 confidence). {3.3, 3.4, 3.5, Box 3.4, Box 3.5}
 
-B.4.1
+
 
 There is high confidence that the probability of a sea ice-free Arctic Ocean during summer is substantially lower at global
 warming of 1.5°C when compared to 2°C. With 1.5°C of global warming, one sea ice-free Arctic summer is projected per
 century. This likelihood is increased to at least one per decade with 2°C global warming. Effects of a temperature overshoot
 are reversible for Arctic sea ice cover on decadal time scales (high confidence). {3.3.8, 3.4.4.7}
 
-B.4.2
+
 
 Global warming of 1.5°C is projected to shift the ranges of many marine species to higher latitudes as well as increase the
 amount of damage to many ecosystems. It is also expected to drive the loss of coastal resources and reduce the productivity of
@@ -611,21 +581,17 @@ than those at global warming of 1.5°C (high confidence). Coral reefs, for examp
 at 1.5°C (high confidence) with larger losses (>99%) at 2ºC (very high confidence). The risk of irreversible loss of many marine
 and coastal ecosystems increases with global warming, especially at 2°C or more (high confidence). {3.4.4, Box 3.4}
 
-SPM
+
 
 9 Consistent with earlier studies, illustrative numbers were adopted from one recent meta-study.
 
-10
 
-Summary for Policymakers
-
-B.4.3
 
 The level of ocean acidification due to increasing CO2 concentrations associated with global warming of 1.5°C is projected to
 amplify the adverse effects of warming, and even further at 2°C, impacting the growth, development, calcification, survival,
 and thus abundance of a broad range of species, for example, from algae to fish (high confidence). {3.3.10, 3.4.4}
 
-B.4.4
+
 
 Impacts of climate change in the ocean are increasing risks to fisheries and aquaculture via impacts on the physiology,
 survivorship, habitat, reproduction, disease incidence, and risk of invasive species (medium confidence) but are projected to be
@@ -633,14 +599,14 @@ less at 1.5ºC of global warming than at 2ºC. One global fishery model, for exa
 for marine fisheries of about 1.5 million tonnes for 1.5°C of global warming compared to a loss of more than 3 million tonnes
 for 2°C of global warming (medium confidence). {3.4.4, Box 3.4}
 
-B.5
+
 
 Climate-related risks to health, livelihoods, food security, water supply, human security, and
 economic growth are projected to increase with global warming of 1.5°C and increase further with
 2°C. (Figure SPM.2) {3.4, 3.5, 5.2, Box 3.2, Box 3.3, Box 3.5, Box 3.6, Cross-Chapter Box 6 in Chapter
 3, Cross-Chapter Box 9 in Chapter 4, Cross-Chapter Box 12 in Chapter 5, 5.2}
 
-B.5.1
+
 
 Populations at disproportionately higher risk of adverse consequences with global warming of 1.5°C and beyond include
 disadvantaged and vulnerable populations, some indigenous peoples, and local communities dependent on agricultural or
@@ -651,7 +617,6 @@ reduce the number of people both exposed to climate-related risks and susceptibl
 million by 2050 (medium confidence). {3.4.10, 3.4.11, Box 3.5, Cross-Chapter Box 6 in Chapter 3, Cross-Chapter Box 9 in
 Chapter 4, Cross-Chapter Box 12 in Chapter 5, 4.2.2.2, 5.2.1, 5.2.2, 5.2.3, 5.6.3}
 
-B.5.2
 
 Any increase in global warming is projected to affect human health, with primarily negative consequences (high confidence).
 Lower risks are projected at 1.5°C than at 2°C for heat-related morbidity and mortality (very high confidence) and for
@@ -660,7 +625,7 @@ amplify the impacts of heatwaves in cities (high confidence). Risks from some ve
 dengue fever, are projected to increase with warming from 1.5°C to 2°C, including potential shifts in their geographic range
 (high confidence). {3.4.7, 3.4.8, 3.5.5.8}
 
-B.5.3
+
 
 Limiting warming to 1.5°C compared with 2ºC is projected to result in smaller net reductions in yields of maize, rice, wheat,
 and potentially other cereal crops, particularly in sub-Saharan Africa, Southeast Asia, and Central and South America, and
@@ -670,7 +635,6 @@ Amazon (medium confidence). Livestock are projected to be adversely affected wit
 extent of changes in feed quality, spread of diseases, and water resource availability (high confidence). {3.4.6, 3.5.4, 3.5.5,
 Box 3.1, Cross-Chapter Box 6 in Chapter 3, Cross-Chapter Box 9 in Chapter 4}
 
-B.5.4
 
 Depending on future socio-economic conditions, limiting global warming to 1.5°C compared to 2°C may reduce the
 proportion of the world population exposed to a climate change-induced increase in water stress by up to 50%, although
@@ -678,7 +642,6 @@ there is considerable variability between regions (medium confidence). Many smal
 experience lower water stress as a result of projected changes in aridity when global warming is limited to 1.5°C, as
 compared to 2°C (medium confidence). {3.3.5, 3.4.2, 3.4.8, 3.5.5, Box 3.2, Box 3.5, Cross-Chapter Box 9 in Chapter 4}
 
-B.5.5
 
 Risks to global aggregated economic growth due to climate change impacts are projected to be lower at 1.5°C than at
 2°C by the end of this century10 (medium confidence). This excludes the costs of mitigation, adaptation investments and
@@ -686,16 +649,12 @@ the benefits of adaptation. Countries in the tropics and Southern Hemisphere sub
 largest impacts on economic growth due to climate change should global warming increase from 1.5°C to 2°C (medium
 confidence). {3.5.2, 3.5.3}
 
-SPM
 
-10 Here, impacts on economic growth refer to changes in gross domestic product (GDP). Many impacts, such as loss of human lives, cultural heritage and ecosystem services, are difficult
+
+Here, impacts on economic growth refer to changes in gross domestic product (GDP). Many impacts, such as loss of human lives, cultural heritage and ecosystem services, are difficult
 to value and monetize.
 
-11
 
-Summary for Policymakers
-
-B.5.6
 
 Exposure to multiple and compound climate-related risks increases between 1.5°C and 2°C of global warming, with greater
 proportions of people both so exposed and susceptible to poverty in Africa and Asia (high confidence). For global warming
@@ -703,7 +662,6 @@ from 1.5°C to 2°C, risks across energy, food, and water sectors could overlap 
 exacerbating current hazards, exposures, and vulnerabilities that could affect increasing numbers of people and regions
 (medium confidence). {Box 3.5, 3.3.1, 3.4.5.3, 3.4.5.6, 3.4.11, 3.5.4.9}
 
-B.5.7
 
 There are multiple lines of evidence that since AR5 the assessed levels of risk increased for four of the five Reasons for
 Concern (RFCs) for global warming to 2°C (high confidence). The risk transitions by degrees of global warming are now:
@@ -713,7 +671,6 @@ high risk between 1.5°C and 2°C for RFC3 (Distribution of impacts) (high confi
 1.5°C and 2.5°C for RFC4 (Global aggregate impacts) (medium confidence); and from moderate to high risk between 1°C
 and 2.5°C for RFC5 (Large-scale singular events) (medium confidence). (Figure SPM.2) {3.4.13; 3.5, 3.5.2}
 
-B.6
 
 Most adaptation needs will be lower for global warming of 1.5°C compared to 2°C (high confidence).
 There are a wide range of adaptation options that can reduce the risks of climate change (high
@@ -721,7 +678,7 @@ confidence). There are limits to adaptation and adaptive capacity for some human
 systems at global warming of 1.5°C, with associated losses (medium confidence). The number and
 availability of adaptation options vary by sector (medium confidence). {Table 3.5, 4.3, 4.5, CrossChapter Box 9 in Chapter 4, Cross-Chapter Box 12 in Chapter 5}
 
-B.6.1
+
 
 A wide range of adaptation options are available to reduce the risks to natural and managed ecosystems (e.g., ecosystembased adaptation, ecosystem restoration and avoided degradation and deforestation, biodiversity management,
 sustainable aquaculture, and local knowledge and indigenous knowledge), the risks of sea level rise (e.g., coastal defence
@@ -730,24 +687,20 @@ and hardening), and the risks to health, livelihoods, food, water, and economic 
 management) (medium confidence). {4.3.1, 4.3.2, 4.3.3, 4.3.5, 4.5.3, 4.5.4, 5.3.2, Box 4.2, Box 4.3, Box 4.6, Cross-Chapter
 Box 9 in Chapter 4}.
 
-B.6.2
+
 
 Adaptation is expected to be more challenging for ecosystems, food and health systems at 2°C of global warming than for
 1.5°C (medium confidence). Some vulnerable regions, including small islands and Least Developed Countries, are projected
 to experience high multiple interrelated climate risks even at global warming of 1.5°C (high confidence). {3.3.1, 3.4.5,
 Box 3.5, Table 3.5, Cross-Chapter Box 9 in Chapter 4, 5.6, Cross-Chapter Box 12 in Chapter 5, Box 5.3}
 
-B.6.3
+
 
 Limits to adaptive capacity exist at 1.5°C of global warming, become more pronounced at higher levels of warming and
 vary by sector, with site-specific implications for vulnerable regions, ecosystems and human health (medium confidence).
 {Cross-Chapter Box 12 in Chapter 5, Box 3.5, Table 3.5}
 
-SPM
 
-12
-
-Summary for Policymakers
 
 How the level of global warming affects impacts and/or risks associated with
 the Reasons for Concern (RFCs) and selected natural, managed and human
@@ -756,7 +709,7 @@ Five Reasons For Concern (RFCs) illustrate the impacts and risks of
 different levels of global warming for people, economies and ecosystems
 across sectors and regions.
 
-SPM
+
 
 Purple indicates very high
 risks of severe impacts/risks
@@ -977,16 +930,11 @@ and monetize.of the Greenland and Antarctic ice sheets.
 include
 disintegration
 
-13
 
-Summary for Policymakers
-
-C.
 
 Emission Pathways and System Transitions Consistent with 1.5°C
 Global Warming
 
-C.1
 
 In model pathways with no or limited overshoot of 1.5°C, global net anthropogenic CO2 emissions
 decline by about 45% from 2010 levels by 2030 (40–60% interquartile range), reaching net zero
@@ -996,14 +944,14 @@ range) and reach net zero around 2070 (2065–2080 interquartile range). Non-CO2
 pathways that limit global warming to 1.5°C show deep reductions that are similar to those in
 pathways limiting warming to 2°C. (high confidence) (Figure SPM.3a) {2.1, 2.3, Table 2.4}
 
-C.1.1
+
 
 CO2 emissions reductions that limit global warming to 1.5°C with no or limited overshoot can involve different portfolios of
 mitigation measures, striking different balances between lowering energy and resource intensity, rate of decarbonization,
 and the reliance on carbon dioxide removal. Different portfolios face different implementation challenges and potential
 synergies and trade-offs with sustainable development. (high confidence) (Figure SPM.3b) {2.3.2, 2.3.4, 2.4, 2.5.3}
 
-C.1.2
+
 
 Modelled pathways that limit global warming to 1.5°C with no or limited overshoot involve deep reductions in emissions
 of methane and black carbon (35% or more of both by 2050 relative to 2010). These pathways also reduce most of the
@@ -1015,7 +963,7 @@ the importance of appropriate management approaches. Improved air quality result
 non-CO2 emissions provide direct and immediate population health benefits in all 1.5°C model pathways. (high confidence)
 (Figure SPM.3a) {2.2.1, 2.3.3, 2.4.4, 2.5.3, 4.3.6, 5.4.2}
 
-C.1.3
+
 
 Limiting global warming requires limiting the total cumulative global anthropogenic emissions of CO2 since the preindustrial period, that is, staying within a total carbon budget (high confidence).13 By the end of 2017, anthropogenic CO2
 emissions since the pre-industrial period are estimated to have reduced the total carbon budget for 1.5°C by approximately
@@ -1032,12 +980,11 @@ thereafter (medium confidence). In addition, the level of non-CO2 mitigation in 
 budget by 250 GtCO2 in either direction (medium confidence). {1.2.4, 2.2.2, 2.6.1, Table 2.2, Chapter 2 Supplementary
 Material}
 
-C.1.4
+
 
 Solar radiation modification (SRM) measures are not included in any of the available assessed pathways. Although some
 SRM measures may be theoretically effective in reducing an overshoot, they face large uncertainties and knowledge gaps
 
-SPM
 
 11 References to pathways limiting global warming to 2°C are based on a 66% probability of staying below 2°C.
 12 Non-CO2 emissions included in this Report are all anthropogenic emissions other than CO2 that result in radiative forcing. These include short-lived climate forcers, such as methane,
@@ -1049,14 +996,14 @@ taken up by past emissions were assessed in this Report.
 about 300 GtCO2 compared to AR5. (medium confidence) {2.2.2}
 15 These estimates use observed GMST to 2006–2015 and estimate future temperature changes using near surface air temperatures.
 
-14
 
-Summary for Policymakers
+
+
 
 as well as substantial risks and institutional and social constraints to deployment related to governance, ethics, and impacts
 on sustainable development. They also do not mitigate ocean acidification. (medium confidence) {4.3.8, Cross-Chapter
 Box 10 in Chapter 4}
-SPM
+
 
 Global emissions pathway characteristics
 General characteristics of the evolution of anthropogenic net emissions of CO2, and total emissions of
@@ -1180,9 +1127,7 @@ global net zero CO2 emission levels, and a comparison with pathways limiting glo
 are highlighted in the main panel and are labelled P1, P2, P3 and P4, corresponding to the LED, S1, S2, and S5 pathways assessed in Chapter 2. Descriptions and
 characteristics of these pathways are available in Figure SPM.3b. {2.1, 2.2, 2.3, Figure 2.5, Figure 2.10, Figure 2.11}
 
-15
 
-Summary for Policymakers
 
 Characteristics of four illustrative model pathways
 Different mitigation strategies can achieve the net emissions reductions that would be required to follow a
@@ -1191,7 +1136,6 @@ Removal (CDR), but the amount varies across pathways, as do the relative contrib
 Carbon Capture and Storage (BECCS) and removals in the Agriculture, Forestry and Other Land Use (AFOLU)
 sector. This has implications for emissions and several other pathway characteristics.
 
-SPM
 
 Breakdown of contributions to global net CO2 emissions in four illustrative model pathways
 Fossil fuel and industry
@@ -1669,7 +1613,7 @@ overshoot of 1.5°C. Pathways P1, P2, P3 and P4 correspond to the LED, S1, S2 an
 2.3.3, 2.3.4, 2.4.1, 2.4.2, 2.4.4, 2.5.3, Figure 2.5, Figure 2.6, Figure 2.9, Figure 2.10, Figure 2.11, Figure 2.14, Figure 2.15, Figure 2.16, Figure 2.17, Figure 2.24,
 Figure 2.25, Table 2.4, Table 2.6, Table 2.7, Table 2.9, Table 4.1}
 
-C.2
+
 
 Pathways limiting global warming to 1.5°C with no or limited overshoot would require rapid
 and far-reaching transitions in energy, land, urban and infrastructure (including transport and
@@ -1678,7 +1622,6 @@ in terms of scale, but not necessarily in terms of speed, and imply deep emissio
 sectors, a wide portfolio of mitigation options and a significant upscaling of investments in those
 options (medium confidence). {2.3, 2.4, 2.5, 4.2, 4.3, 4.4, 4.5}
 
-C.2.1
 
 Pathways that limit global warming to 1.5°C with no or limited overshoot show system changes that are more rapid and
 pronounced over the next two decades than in 2°C pathways (high confidence). The rates of system changes associated
@@ -1686,7 +1629,7 @@ with limiting global warming to 1.5°C with no or limited overshoot have occurre
 technologies and spatial contexts, but there is no documented historic precedent for their scale (medium confidence).
 {2.3.3, 2.3.4, 2.4, 2.5, 4.2.1, 4.2.2, Cross-Chapter Box 11 in Chapter 4}
 
-C.2.2
+
 
 In energy systems, modelled global pathways (considered in the literature) limiting global warming to 1.5°C with no or
 limited overshoot (for more details see Figure SPM.3b) generally meet energy service demand with lower energy use,
@@ -1704,7 +1647,6 @@ energy and electricity storage technologies have substantially improved over the
 improvements signal a potential system transition in electricity generation. (Figure SPM.3b) {2.4.1, 2.4.2, Figure 2.1, Table
 2.6, Table 2.7, Cross-Chapter Box 6 in Chapter 3, 4.2.1, 4.3.1, 4.3.3, 4.5.2}
 
-C.2.3
 
 CO2 emissions from industry in pathways limiting global warming to 1.5°C with no or limited overshoot are projected to
 be about 65–90% (interquartile range) lower in 2050 relative to 2010, as compared to 50–80% for global warming of
@@ -1716,17 +1658,12 @@ characteristics of large-scale industrial installations. In industry, emissions 
 by themselves are insufficient for limiting warming to 1.5°C with no or limited overshoot (high confidence). {2.4.3, 4.2.1,
 Table 4.1, Table 4.3, 4.3.3, 4.3.4, 4.5.2}
 
-C.2.4
 
 The urban and infrastructure system transition consistent with limiting global warming to 1.5°C with no or limited overshoot
 would imply, for example, changes in land and urban planning practices, as well as deeper emissions reductions in transport
 and buildings compared to pathways that limit global warming below 2°C (medium confidence). Technical measures
 
-SPM
 
-17
-
-Summary for Policymakers
 
 and practices enabling deep emissions reductions include various energy efficiency options. In pathways limiting global
 warming to 1.5°C with no or limited overshoot, the electricity share of energy demand in buildings would be about 55–75%
@@ -1738,7 +1675,6 @@ of capital (high confidence). {2.3.4, 2.4.3, 4.2.1, Table 4.1, 4.3.3, 4.5.2}
 
 SPM
 
-C.2.5
 
 Transitions in global and regional land use are found in all pathways limiting global warming to 1.5°C with no or limited
 overshoot, but their scale depends on the pursued mitigation portfolio. Model pathways that limit global warming to 1.5°C
@@ -1754,7 +1690,7 @@ of land-based mitigation options would require overcoming socio-economic, instit
 environmental barriers that differ across regions (high confidence). {2.4.4, Figure 2.24, 4.3.2, 4.3.7, 4.5.2, Cross-Chapter
 Box 7 in Chapter 3}
 
-C.2.6
+
 
 Additional annual average energy-related investments for the period 2016 to 2050 in pathways limiting warming to
 1.5°C compared to pathways without new climate policies beyond those in place today are estimated to be around 830
@@ -1765,7 +1701,7 @@ about 12% (range of 3% to 24%) in 1.5°C pathways relative to 2°C pathways. Ann
 technologies and energy efficiency are upscaled by roughly a factor of six (range of factor of 4 to 10) by 2050 compared to
 2015 (medium confidence). {2.5.2, Box 4.8, Figure 2.27}
 
-C.2.7
+
 
 Modelled pathways limiting global warming to 1.5°C with no or limited overshoot project a wide range of global average
 discounted marginal abatement costs over the 21st century. They are roughly 3-4 times higher than in pathways limiting
@@ -1777,11 +1713,7 @@ of mitigation in line with pathways limiting warming to 1.5°C. {2.5.2; 2.6; Fig
 16 The projected land-use changes presented are not deployed to their upper limits simultaneously in a single pathway.
 17 Including two pathways limiting warming to 1.5°C with no or limited overshoot and four pathways with higher overshoot.
 
-18
 
-Summary for Policymakers
-
-C.3
 
 All pathways that limit global warming to 1.5°C with limited or no overshoot project the use of
 carbon dioxide removal (CDR) on the order of 100–1000 GtCO2 over the 21st century. CDR would
@@ -1792,14 +1724,14 @@ Significant near-term emissions reductions and measures to lower energy and land
 limit CDR deployment to a few hundred GtCO2 without reliance on bioenergy with carbon capture
 and storage (BECCS) (high confidence). {2.3, 2.4, 3.6.2, 4.3, 5.4}
 
-C.3.1
+
 
 Existing and potential CDR measures include afforestation and reforestation, land restoration and soil carbon sequestration,
 BECCS, direct air carbon capture and storage (DACCS), enhanced weathering and ocean alkalinization. These differ widely
 in terms of maturity, potentials, costs, risks, co-benefits and trade-offs (high confidence). To date, only a few published
 pathways include CDR measures other than afforestation and BECCS. {2.3.4, 3.6.2, 4.3.2, 4.3.7}
 
-C.3.2
+
 
 In pathways limiting global warming to 1.5°C with limited or no overshoot, BECCS deployment is projected to range from
 0–1, 0–8, and 0–16 GtCO2 yr−1 in 2030, 2050, and 2100, respectively, while agriculture, forestry and land-use (AFOLU)
@@ -1808,10 +1740,7 @@ upper end of these deployment ranges by mid-century exceeds the BECCS potential 
 potential of up to 3.6 GtCO2 yr−1 assessed based on recent literature (medium confidence). Some pathways avoid BECCS
 deployment completely through demand-side measures and greater reliance on AFOLU-related CDR measures (medium
 confidence). The use of bioenergy can be as high or even higher when BECCS is excluded compared to when it is included
-due to its potential for replacing fossil fuels across sectors (high confidence). (Figure SPM.3b) {2.3.3, 2.3.4, 2.4.2, 3.6.2,
-4.3.1, 4.2.3, 4.3.2, 4.3.7, 4.4.3, Table 2.4}
-
-C.3.3
+due to its potential for replacing fossil fuels across sectors (high confidence). (Figure SPM.3b) {2.3.3, 2.3.4, 2.4.2, 
 
 Pathways that overshoot 1.5°C of global warming rely on CDR exceeding residual CO2 emissions later in the century to
 return to below 1.5°C by 2100, with larger overshoots requiring greater amounts of CDR (Figure SPM.3b) (high confidence).
@@ -1820,7 +1749,7 @@ warming to below 1.5°C following an overshoot. Carbon cycle and climate system 
 effectiveness of net negative emissions to reduce temperatures after they peak (high confidence). {2.2, 2.3.4, 2.3.5, 2.6,
 4.3.7, 4.5.2, Table 4.11}
 
-C.3.4
+
 
 Most current and potential CDR measures could have significant impacts on land, energy, water or nutrients if deployed
 at large scale (high confidence). Afforestation and bioenergy may compete with other land uses and may have significant
@@ -1831,7 +1760,6 @@ deployed at substantial, but lesser scales, rather than a single option at very 
 {2.3.4, 2.4.4, 2.5.3, 2.6, 3.6.2, 4.3.2, 4.3.7, 4.5.2, 5.4.1, 5.4.2; Cross-Chapter Boxes 7 and 8 in Chapter 3, Table 4.11, Table
 5.3, Figure 5.3}
 
-C.3.5
 
 Some AFOLU-related CDR measures such as restoration of natural ecosystems and soil carbon sequestration could provide
 co-benefits such as improved biodiversity, soil quality, and local food security. If deployed at large scale, they would
@@ -1839,13 +1767,7 @@ require governance systems enabling sustainable land management to conserve and 
 ecosystem functions and services (medium confidence). (Figure SPM.4) {2.3.3, 2.3.4, 2.4.2, 2.4.4, 3.6.2, 5.4.1, Cross-Chapter
 Boxes 3 in Chapter 1 and 7 in Chapter 3, 4.3.2, 4.3.7, 4.4.1, 4.5.2, Table 2.4}
 
-SPM
 
-19
-
-Summary for Policymakers
-
-D.
 
 Strengthening the Global Response in the Context of Sustainable
 Development and Efforts to Eradicate Poverty
@@ -1860,7 +1782,7 @@ ambition of emissions reductions after 2030 (high confidence). Avoiding overshoo
 on future large-scale deployment of carbon dioxide removal (CDR) can only be achieved if global
 CO2 emissions start to decline well before 2030 (high confidence). {1.2, 2.3, 3.3, 3.4, 4.2, 4.4, CrossChapter Box 11 in Chapter 4}
 
-D.1.1
+
 
 Pathways that limit global warming to 1.5°C with no or limited overshoot show clear emission reductions by 2030 (high
 confidence). All but one show a decline in global greenhouse gas emissions to below 35 GtCO2eq yr−1 in 2030, and half of
@@ -1869,7 +1791,7 @@ available pathways fall within the 25–30 GtCO2eq yr−1 range (interquartile r
 with cost-effective pathways that result in a global warming of about 3°C by 2100, with warming continuing afterwards
 (medium confidence). {2.3.3, 2.3.5, Cross-Chapter Box 11 in Chapter 4, 5.5.3.2}
 
-D.1.2
+
 
 Overshoot trajectories result in higher impacts and associated challenges compared to pathways that limit global warming
 to 1.5°C with no or limited overshoot (high confidence). Reversing warming after an overshoot of 0.2°C or larger during
@@ -1877,7 +1799,6 @@ this century would require upscaling and deployment of CDR at rates and volumes 
 considerable implementation challenges (medium confidence). {1.3.3, 2.3.4, 2.3.5, 2.5.1, 3.3, 4.3.7, Cross-Chapter Box 8 in
 Chapter 3, Cross-Chapter Box 11 in Chapter 4}
 
-D.1.3
 
 The lower the emissions in 2030, the lower the challenge in limiting global warming to 1.5°C after 2030 with no or limited
 overshoot (high confidence). The challenges from delayed actions to reduce greenhouse gas emissions include the risk of
@@ -1885,14 +1806,12 @@ cost escalation, lock-in in carbon-emitting infrastructure, stranded assets, and
 in the medium to long term (high confidence). These may increase uneven distributional impacts between countries at
 different stages of development (medium confidence). {2.3.5, 4.4.5, 5.4.2}
 
-D.2
 
 The avoided climate change impacts on sustainable development, eradication of poverty and reducing
 inequalities would be greater if global warming were limited to 1.5°C rather than 2°C, if mitigation
 and adaptation synergies are maximized while trade-offs are minimized (high confidence). {1.1, 1.4,
 2.5, 3.3, 3.4, 5.2, Table 5.1}
 
-D.2.1
 
 Climate change impacts and responses are closely linked to sustainable development which balances social well-being,
 economic prosperity and environmental protection. The United Nations Sustainable Development Goals (SDGs), adopted in
@@ -1900,13 +1819,12 @@ economic prosperity and environmental protection. The United Nations Sustainable
 goals that include poverty eradication, reducing inequalities, and climate action. (high confidence) {Cross-Chapter Box 4 in
 Chapter 1, 1.4, 5.1}
 
-D.2.2
+
 
 The consideration of ethics and equity can help address the uneven distribution of adverse impacts associated with
 1.5°C and higher levels of global warming, as well as those from mitigation and adaptation, particularly for poor and
 disadvantaged populations, in all societies (high confidence). {1.1.1, 1.1.2, 1.4.3, 2.5.3, 3.4.10, 5.1, 5.2, 5.3. 5.4, CrossChapter Box 4 in Chapter 1, Cross-Chapter Boxes 6 and 8 in Chapter 3, and Cross-Chapter Box 12 in Chapter 5}
 
-D.2.3
 
 Mitigation and adaptation consistent with limiting global warming to 1.5°C are underpinned by enabling conditions, assessed
 in this Report across the geophysical, environmental-ecological, technological, economic, socio-cultural and institutional
@@ -1915,9 +1833,7 @@ SPM
 
 18 GHG emissions have been aggregated with 100-year GWP values as introduced in the IPCC Second Assessment Report.
 
-20
 
-Summary for Policymakers
 
 dimensions of feasibility. Strengthened multilevel governance, institutional capacity, policy instruments, technological
 innovation and transfer and mobilization of finance, and changes in human behaviour and lifestyles are enabling conditions
@@ -1925,13 +1841,12 @@ that enhance the feasibility of mitigation and adaptation options for 1.5°C-con
 {1.4, Cross-Chapter Box 3 in Chapter 1, 2.5.1, 4.4, 4.5, 5.6}
 SPM
 
-D.3
+
 
 Adaptation options specific to national contexts, if carefully selected together with enabling
 conditions, will have benefits for sustainable development and poverty reduction with global
 warming of 1.5°C, although trade-offs are possible (high confidence). {1.4, 4.3, 4.5}
 
-D.3.1
 
 Adaptation options that reduce the vulnerability of human and natural systems have many synergies with sustainable
 development, if well managed, such as ensuring food and water security, reducing disaster risks, improving health
@@ -1940,7 +1855,6 @@ in physical and social infrastructure is a key enabling condition to enhance the
 of societies. These benefits can occur in most regions with adaptation to 1.5°C of global warming (high confidence).
 {1.4.3, 4.2.2, 4.3.1, 4.3.2, 4.3.3, 4.3.5, 4.4.1, 4.4.3, 4.5.3, 5.3.1, 5.3.2}
 
-D.3.2
 
 Adaptation to 1.5°C global warming can also result in trade-offs or maladaptations with adverse impacts for sustainable
 development. For example, if poorly designed or implemented, adaptation projects in a range of sectors can increase
@@ -1948,14 +1862,14 @@ greenhouse gas emissions and water use, increase gender and social inequality, u
 on natural ecosystems (high confidence). These trade-offs can be reduced by adaptations that include attention to poverty
 and sustainable development (high confidence). {4.3.2, 4.3.3, 4.5.4, 5.3.2; Cross-Chapter Boxes 6 and 7 in Chapter 3}
 
-D.3.3
+
 
 A mix of adaptation and mitigation options to limit global warming to 1.5°C, implemented in a participatory and integrated
 manner, can enable rapid, systemic transitions in urban and rural areas (high confidence). These are most effective when
 aligned with economic and sustainable development, and when local and regional governments and decision makers are
 supported by national governments (medium confidence). {4.3.2, 4.3.3, 4.4.1, 4.4.2}
 
-D.3.4
+
 
 Adaptation options that also mitigate emissions can provide synergies and cost savings in most sectors and system
 transitions, such as when land management reduces emissions and disaster risk, or when low-carbon buildings are also
@@ -1964,21 +1878,20 @@ such as when bioenergy crops, reforestation or afforestation encroach on land ne
 undermine food security, livelihoods, ecosystem functions and services and other aspects of sustainable development. (high
 confidence) {3.4.3, 4.3.2, 4.3.4, 4.4.1, 4.5.2, 4.5.3, 4.5.4}
 
-D.4
+
 
 Mitigation options consistent with 1.5°C pathways are associated with multiple synergies and tradeoffs across the Sustainable Development Goals (SDGs). While the total number of possible synergies
 exceeds the number of trade-offs, their net effect will depend on the pace and magnitude of changes,
 the composition of the mitigation portfolio and the management of the transition. (high confidence)
 (Figure SPM.4) {2.5, 4.5, 5.4}
 
-D.4.1
+
 
 1.5°C pathways have robust synergies particularly for the SDGs 3 (health), 7 (clean energy), 11 (cities and communities), 12
 (responsible consumption and production) and 14 (oceans) (very high confidence). Some 1.5°C pathways show potential
 trade-offs with mitigation for SDGs 1 (poverty), 2 (hunger), 6 (water) and 7 (energy access), if not managed carefully (high
 confidence). (Figure SPM.4) {5.4.2; Figure 5.4, Cross-Chapter Boxes 7 and 8 in Chapter 3}
 
-D.4.2
 
 1.5°C pathways that include low energy demand (e.g., see P1 in Figure SPM.3a and SPM.3b), low material consumption,
 and low GHG-intensive food consumption have the most pronounced synergies and the lowest number of trade-offs with
@@ -1986,9 +1899,7 @@ respect to sustainable development and the SDGs (high confidence). Such pathways
 modelled pathways, sustainable development, eradicating poverty and reducing inequality can support limiting warming to
 1.5°C (high confidence). (Figure SPM.3b, Figure SPM.4) {2.4.3, 2.5.1, 2.5.3, Figure 2.4, Figure 2.28, 5.4.1, 5.4.2, Figure 5.4}
 
-21
 
-Summary for Policymakers
 
 Indicative linkages between mitigation options and sustainable
 development using SDGs (The linkages do not show costs and benefits)
@@ -1999,7 +1910,7 @@ and local circumstances and context. Particularly in the energy-demand sector, t
 larger than for trade-offs. The bars group individually assessed options by level of confidence and take into
 account the relative strength of the assessed mitigation-SDG connections.
 
-SPM
+
 
 Shades show level of confidence
 
@@ -2156,14 +2067,14 @@ and non-biomass renewables, nuclear, carbon capture and storage (CCS) with bioen
 and forest options, sustainable diets and reduced food waste, soil sequestration, livestock and manure management, reduced deforestation, afforestation and
 reforestation, and responsible sourcing. In addition to this figure, options in the ocean sector are discussed in the underlying report. {5.4, Table 5.2, Figure 5.2}
 
-SPM
+
 
 Information about the net impacts of mitigation on sustainable development in 1.5°C pathways is available only for a limited number of SDGs and mitigation
 options. Only a limited number of studies have assessed the benefits of avoided climate change impacts of 1.5°C pathways for the SDGs, and the co-effects
 of adaptation for mitigation and the SDGs. The assessment of the indicative mitigation potentials in Figure SPM.4 is a step further from AR5 towards a more
 comprehensive and integrated assessment in the future.
 
-D.4.3
+
 
 1.5°C and 2°C modelled pathways often rely on the deployment of large-scale land-related measures like afforestation
 and bioenergy supply, which, if poorly managed, can compete with food production and hence raise food security concerns
@@ -2172,26 +2083,24 @@ scale of deployment (high confidence). If poorly implemented, CDR options such a
 to trade-offs. Context-relevant design and implementation requires considering people’s needs, biodiversity, and other
 sustainable development dimensions (very high confidence). (Figure SPM.4) {5.4.1.3, Cross-Chapter Box 7 in Chapter 3}
 
-D.4.4
 
 Mitigation consistent with 1.5°C pathways creates risks for sustainable development in regions with high dependency on
 fossil fuels for revenue and employment generation (high confidence). Policies that promote diversification of the economy
 and the energy sector can address the associated challenges (high confidence). {5.4.1.2, Box 5.2}
 
-D.4.5
 
 Redistributive policies across sectors and populations that shield the poor and vulnerable can resolve trade-offs for a range
 of SDGs, particularly hunger, poverty and energy access. Investment needs for such complementary policies are only a small
 fraction of the overall mitigation investments in 1.5°C pathways. (high confidence) {2.4.3, 5.4.2, Figure 5.5}
 
-D.5
+
 
 Limiting the risks from global warming of 1.5°C in the context of sustainable development and
 poverty eradication implies system transitions that can be enabled by an increase of adaptation
 and mitigation investments, policy instruments, the acceleration of technological innovation and
 behaviour changes (high confidence). {2.3, 2.4, 2.5, 3.2, 4.2, 4.4, 4.5, 5.2, 5.5, 5.6}
 
-D.5.1
+
 
 Directing finance towards investment in infrastructure for mitigation and adaptation could provide additional resources.
 This could involve the mobilization of private funds by institutional investors, asset managers and development or
@@ -2200,7 +2109,6 @@ adaptation investments can facilitate the mobilization of private funds and enha
 policies. Studies indicate a number of challenges, including access to finance and mobilization of funds. (high confidence)
 {2.5.1, 2.5.2, 4.4.5}
 
-D.5.2
 
 Adaptation finance consistent with global warming of 1.5°C is difficult to quantify and compare with 2°C. Knowledge
 gaps include insufficient data to calculate specific climate resilience-enhancing investments from the provision of currently
@@ -2209,24 +2117,21 @@ underinvested basic infrastructure. Estimates of the costs of adaptation might b
 budgets, and in developing countries together with support from development assistance, multilateral development banks,
 and United Nations Framework Convention on Climate Change channels (medium confidence). More recently there is a
 
-23
 
-Summary for Policymakers
 
 growing understanding of the scale and increase in non-governmental organizations and private funding in some regions
 (medium confidence). Barriers include the scale of adaptation financing, limited capacity and access to adaptation finance
 (medium confidence). {4.4.5, 4.6}
-SPM
 
-24
 
-D.5.3
+
+
 
 Global model pathways limiting global warming to 1.5°C are projected to involve the annual average investment needs
 in the energy system of around 2.4 trillion USD2010 between 2016 and 2035, representing about 2.5% of the world GDP
 (medium confidence). {4.4.5, Box 4.8}
 
-D.5.4
+
 
 Policy tools can help mobilize incremental resources, including through shifting global investments and savings and
 through market and non-market based instruments as well as accompanying measures to secure the equity of the
@@ -2234,7 +2139,6 @@ transition, acknowledging the challenges related with implementation, including 
 assets and impacts on international competition, and utilizing the opportunities to maximize co-benefits (high confidence).
 {1.3.3, 2.3.4, 2.3.5, 2.5.1, 2.5.2, Cross-Chapter Box 8 in Chapter 3, Cross-Chapter Box 11 in Chapter 4, 4.4.5, 5.5.2}
 
-D.5.5
 
 The systems transitions consistent with adapting to and limiting global warming to 1.5°C include the widespread adoption
 of new and possibly disruptive technologies and practices and enhanced climate-driven innovation. These imply enhanced
@@ -2243,7 +2147,7 @@ cooperation can contribute to the development, commercialization and widespread 
 technologies. Innovation policies may be more effective when they combine public support for research and development
 with policy mixes that provide incentives for technology diffusion. (high confidence) {4.4.4, 4.4.5}.
 
-D.5.6
+
 
 Education, information, and community approaches, including those that are informed by indigenous knowledge and local
 knowledge, can accelerate the wide-scale behaviour changes consistent with adapting to and limiting global warming to
@@ -2254,7 +2158,7 @@ on the individual’s evaluation of expected policy consequences, the perceived 
 consequences, and perceived fairness of decision procedures (high confidence). {1.1, 1.5, 4.3.5, 4.4.1, 4.4.3, Box 4.3, 5.5.3,
 5.6.5}
 
-D.6
+
 
 Sustainable development supports, and often enables, the fundamental societal and systems
 transitions and transformations that help limit global warming to 1.5°C. Such changes facilitate the
@@ -2262,30 +2166,28 @@ pursuit of climate-resilient development pathways that achieve ambitious mitigat
 in conjunction with poverty eradication and efforts to reduce inequalities (high confidence). {Box 1.1,
 1.4.3, Figure 5.1, 5.5.3, Box 5.3}
 
-D.6.1
+
 
 Social justice and equity are core aspects of climate-resilient development pathways that aim to limit global warming to
 1.5°C as they address challenges and inevitable trade-offs, widen opportunities, and ensure that options, visions, and values
 are deliberated, between and within countries and communities, without making the poor and disadvantaged worse off
 (high confidence). {5.5.2, 5.5.3, Box 5.3, Figure 5.1, Figure 5.6, Cross-Chapter Boxes 12 and 13 in Chapter 5}
 
-D.6.2
+
 
 The potential for climate-resilient development pathways differs between and within regions and nations, due to different
 development contexts and systemic vulnerabilities (very high confidence). Efforts along such pathways to date have been
 limited (medium confidence) and enhanced efforts would involve strengthened and timely action from all countries and
 non-state actors (high confidence). {5.5.1, 5.5.3, Figure 5.1}
 
-D.6.3
+
 
 Pathways that are consistent with sustainable development show fewer mitigation and adaptation challenges and are
 associated with lower mitigation costs. The large majority of modelling studies could not construct pathways characterized
 by lack of international cooperation, inequality and poverty that were able to limit global warming to 1.5°C. (high
 confidence) {2.3.1, 2.5.1, 2.5.3, 5.5.2}
 
-Summary for Policymakers
 
-D.7
 
 Strengthening the capacities for climate action of national and sub-national authorities, civil society,
 the private sector, indigenous peoples and local communities can support the implementation of
@@ -2296,13 +2198,12 @@ developing countries and vulnerable regions (high confidence). {1.4, 2.3, 2.5, 4
 5.6, 5, Box 4.1, Box 4.2, Box 4.7, Box 5.3, Cross-Chapter Box 9 in Chapter 4, Cross-Chapter Box 13 in
 Chapter 5}
 
-D.7.1
+
 
 Partnerships involving non-state public and private actors, institutional investors, the banking system, civil society and
 scientific institutions would facilitate actions and responses consistent with limiting global warming to 1.5°C (very high
 confidence). {1.4, 4.4.1, 4.2.2, 4.4.3, 4.4.5, 4.5.3, 5.4.1, 5.6.2, Box 5.3}.
 
-D.7.2
 
 Cooperation on strengthened accountable multilevel governance that includes non-state actors such as industry, civil
 society and scientific institutions, coordinated sectoral and cross-sectoral policies at various governance levels, gendersensitive policies, finance including innovative financing, and cooperation on technology development and transfer can
@@ -2310,25 +2211,21 @@ ensure participation, transparency, capacity building and learning among differe
 4.2.2, 4.4.1, 4.4.2, 4.4.3, 4.4.4, 4.4.5, 4.5.3, Cross-Chapter Box 9 in Chapter 4, 5.3.1, 5.5.3, Cross-Chapter Box 13 in Chapter
 5, 5.6.1, 5.6.3}
 
-D.7.3
+
 
 International cooperation is a critical enabler for developing countries and vulnerable regions to strengthen their action for
 the implementation of 1.5°C-consistent climate responses, including through enhancing access to finance and technology
 and enhancing domestic capacities, taking into account national and local circumstances and needs (high confidence).
 {2.3.1, 2.5.1, 4.4.1, 4.4.2, 4.4.4, 4.4.5, 5.4.1 5.5.3, 5.6.1, Box 4.1, Box 4.2, Box 4.7}.
 
-D.7.4
+
 
 Collective efforts at all levels, in ways that reflect different circumstances and capabilities, in the pursuit of limiting global
 warming to 1.5°C, taking into account equity as well as effectiveness, can facilitate strengthening the global response to
 climate change, achieving sustainable development and eradicating poverty (high confidence). {1.4.2, 2.3.1, 2.5.1, 2.5.2,
 2.5.3, 4.2.2, 4.4.1, 4.4.2, 4.4.3, 4.4.4, 4.4.5, 4.5.3, 5.3.1, 5.4.1, 5.5.3, 5.6.1, 5.6.2, 5.6.3}
 
-SPM
 
-25
-
-Summary for Policymakers
 
 Box SPM.1: Core Concepts Central to this Special Report
 Global mean surface temperature (GMST): Estimated global average of near-surface air temperatures over land and
@@ -2336,7 +2233,7 @@ sea ice, and sea surface temperatures over ice-free ocean regions, with changes 
 value over a specified reference period. When estimating changes in GMST, near-surface air temperature over both land
 and oceans are also used.19 {1.2.1.1}
 
-SPM
+
 
 Pre-industrial: The multi-century period prior to the onset of large-scale industrial activity around 1750. The reference
 period 1850–1900 is used to approximate pre-industrial GMST. {1.2.1.2}
