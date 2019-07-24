@@ -35,35 +35,33 @@ Mareva Sacoun (mareva.sacoun@gmail.com).
 Summary
 Introduction
 
-5
+
 
 Climate knowledge connected to the IPCC 1.5°C report
 
-6
 
-A. Understanding global warming
 
-7
+Understanding global warming
 
-B. Climate change impacts at 1.5°C and 2°C
 
-14
+Climate change impacts at 1.5°C and 2°C
 
-C. How to limit warming to 1.5°C ?
 
-18
 
-D.	Addressing climate change and sustainability simultaneously
+How to limit warming to 1.5°C ?
 
-20
 
-Glossary
 
-22
+Addressing climate change and sustainability simultaneously
 
-Resources
 
-23
+
+
+
+
+
+
+
 
 “Each degree matters, each year matters, and each
 decision matters : not acting today is adding to the
@@ -73,7 +71,7 @@ and immediate policies.”
 Valérie Masson-Delmotte, Co-Chair of Working Group I of
 the IPCC (8th of October 2018 – French Senate intervention)
 
-4 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
 Introduction
 What is the IPCC ?
@@ -124,35 +122,34 @@ IPCC main assessment reports come out about every
 6 years, with more focused Special Reports released in
 between. Three Special Reports will be published in the
 current (sixth) IPCC assessment cycle :
-—— Global warming of 1.5°C
-—— Climate Change and Land
-—— Ocean and Cryosphere in a Changing Climate
+Global warming of 1.5°C
+Climate Change and Land
+Ocean and Cryosphere in a Changing Climate
 
 The following is a summary of the Special Report on
 Global Warming of 1.5°C that is specifically intended
 for teachers. It is presented together with a selection of
 related activities and exercises that can be implemented in the classroom.
 
-School activity
-Question		 Why is this report called “1.5°C Report?”
+Why is this report called “1.5°C Report?”
 
 The authors producing IPCC reports are organised into
 three Working Groups :
-—— Working Group I on past and possible future changes
+Working Group I on past and possible future changes
 in the climate system and carbon cycle (“The Physical Science Basis”)
-—— Working Group II on past and future impacts, and
+Working Group II on past and future impacts, and
 options for adapting to them (“Impacts, Adaptation,
 and Vulnerability )
-—— Working Group III on ways to reduce greenhouse gas
+Working Group III on ways to reduce greenhouse gas
 emissions (“Mitigation of Climate Change”)
 Each report has a Summary for Policymakers (SPM).
-5 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
 Climate knowledge connected to the IPCC 1.5°C report
 
-6 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-A.
+
 
 Understanding global warming
 
@@ -186,14 +183,6 @@ Energy coming from the sun
 and crossing the atmosphere
 reaches the surface
 
-CO2
-
-CH4
-
-H20
-
-INFRARED
-HEAT
 
 The Earth surface is warmed
 up by the sun light and
@@ -206,9 +195,9 @@ a part of the infrared radiation
 Functioning of the Greenhouse effect
 Adapted from an original infographics by Lannis
 
-7 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-Greenhouse gases (GHGs) released by human activities
+Greenhouse gases (GHGs) released by human activities
 increase the thickness of this “atmospheric blanket”,
 causing global temperatures to rise, i.e. global warming. To date, human-generated emissions since the
 start of the Industrial Revolution (i.e. since “pre-industrial”) have led to global warming of 1.0°C.
@@ -224,37 +213,27 @@ At the present rate, global temperature would reach 1.5°C around 2040.
 Adapted from the Special Report on Global Warming of 1.5°C (IPCC)
 
 School activity
-Task		 What is climate and what is the difference with the weather ?
-Look up the definition of climate on the WMO (World Meteorological Organization) website.
-Keywords : 30 years, temperature, precipitation, atmosphere.
+What is climate and what is the difference with the weather ?
 Climate in a narrow sense is usually defined as the average weather, or more rigorously, as the statistical description in terms of the mean
 and variability of relevant quantities over a period of time ranging from months to thousands or millions of years. Climate says which clothes
 do we have to buy. Weather forecast says what do we have to wear.
 The classical period for averaging these variables is 30 years, as defined by the World Meteorological Organization. The relevant quantities
 are most often surface variables such as temperature, precipitation and wind. Climate in a wider sense is the state, including a statistical
 description, of the climate system.
-Question		 What is a greenhouse gas ?
 Make a list of different greenhouse gases. Explain how they are produced. Compare their global warming potential.
-Task		 Explain the greenhouse effect with a scheme and a short text.
+ Explain the greenhouse effect with a scheme and a short text.
 Use the following words : emission, absorption, reflection, infrared light, atmosphere, Earth’s surface.
 Reveal the difference between natural and anthropogenic greenhouse effect. (Anthropogenic means resulting from human activities.)
-8 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
-
-School activity
-Task Compare the global warming potentials (GWP) of methane, nitrous oxide and hydrofluorocarbons with the GWP of CO2.
-See, for example, table 8.7 in the IPCC report AR5, chapter 8, p. 712 :
-http://www.climatechange2013.org/images/report/WG1AR5_Chapter08_FINAL.pdf
-Task
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+ 
+Compare the global warming potentials (GWP) of methane, nitrous oxide and hydrofluorocarbons with the GWP of CO2.
 
 Explain what is meant by global warming.
 
-Question		 CO2 is emitted when burning fossil fuels. What are the “ other causes of global warming ” ? How can these other causes
-be reduced ?
-Keywords : biogas production, reforestation.
-Task
+CO2 is emitted when burning fossil fuels. What are the “other causes of global warming”? How can these other causes
+be reduced?
 
 Explain the connection between hydrofluorocarbons, the ozone layer and global warming.
-
 Climate inertia
 Even if we can somehow stop all carbon dioxide (CO2)
 emissions to the atmosphere immediately, global temperatures would stabilise but not decline – it takes centuries for millennia for the CO2 already present in the
@@ -280,13 +259,13 @@ global regions and economic sectors.
 School activity
 Task Find the atmospheric lifetimes of different
 greenhouse gases.
-“ Atmospheric lifetime ”means the average time that something (a gas, for example) remains in the atmosphere.
+“Atmospheric lifetime ”means the average time that something (a gas, for example) remains in the atmosphere.
 Use this atmospheric lifetime of GHG data to explain why
-global warming “ will persist for centuries to millennia.”
+global warming “will persist for centuries to millennia.”
 
-9 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C”
 
-Climate impacts and adapting to them
+Climate impacts and adapting to them
 Global warming is causing changes in the climate system (physical climate impacts), which are already affecting humans, along with plants, animals and ecosystems. Physical impacts can occur simultaneously and
 can interact with non-climatic factors like pollution.
 Below we explain the different types of climate impacts,
@@ -310,24 +289,16 @@ reinforce one another (e.g. extensive flooding due to a
 storm surge on top of long-term sea level rise).
 Changes in extreme weather with global
 warming
-We expect climate to cause extreme weather events –
-like heat waves, heavy rainfall, floods and droughts – to
+We expect climate to cause extreme weather events–
+like heat waves, heavy rainfall, floods and droughts– to
 become more frequent and more severe. Under high
 levels of warming, very intense hurricanes are expected
 to occur more frequently, although the overall number of
 hurricanes is expected to reduce.
 
-School activity
-Task Look at the following map (link below) showing
+Look at the following map showing
 the increase in the number of combined tropical nights
 (T min ≥ 20°C) and hot days (T max ≥ 35°C) in Europe.
-How many more tropical nights/hot days will there approximately be in 2071-2100 as compared to 1961-1990
-—— in Southern Portugal ?
-—— in Northern Germany ?
-—— in Norway ?
-Source : European Environment Agency
-https://www.eea.europa.eu/data-and-maps/figures/increase-in-the-number-of
-
 Incremental changes with global warming
 Intensification of the global water cycle with, in general,
 dry areas becoming drier due to increased evaporation and wet areas becoming wetter.
@@ -345,14 +316,12 @@ In addition to the warming it causes, the steady accumulation of CO2 in the atmo
 impacts. This CO2 dissolves into the ocean and reacts
 with the water to form carbonic acid, raising the ocean’s
 acidity in a process called ocean acidification.
-School activity
-Task
 
-Look up : What is causing sea level rise ?
+What is causing sea level rise ?
 
-10 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C”
 
-Impacts and adaptation for human systems
+Impacts and adaptation for human systems
 Global warming can negatively affect a wide range
 of human activities and needs, and is already doing
 so. More frequent extreme weather events can impact
@@ -379,7 +348,7 @@ in the Pacific. For droughts, those directly dependent
 on agriculture for their livelihoods and food supply are
 among the most vulnerable since they are highly susceptible to changes in temperature and rainfall.
 
-erage thicknesses of 2.5 km for Antarctica and 2 km for
+Average thicknesses of 2.5 km for Antarctica and 2 km for
 Greenland). However, estimates vary as to what the timing and size of these contributions will be. Current estimates range between 25 centimetres to over a meter
 by 2100, depending in part on how much we emit in
 the future. Uncertainty in forecasts of future climate also
@@ -391,12 +360,7 @@ these options come with their own risks. Finally, the resulting greenhouse gas e
 when implementing adaptation measures to avoid competing goals, such as adaptation efforts leading to increased emissions. The implications for sustainable
 development, including around food, water and human
 security also need to be taken into account (see Section
-D).
-School activity
-Task Think of some adaptation and mitigation measures for your home, your town/village, your country.
-You may look for ideas on the European Climate Adaptation
-Platform :  https://climate-adapt.eea.europa.eu/knowledge/
-adaptation-information/adaptation-measures
+
 
 How exposed and vulnerable a place and its people
 are can change over time. In fact, efforts to adapt to
@@ -408,9 +372,9 @@ A key difficulty in efforts to adapt to climate change is
 that future changes in climate are often uncertain. Take
 sea level rise, for example. The largest potential future
 contributors are the Antarctic and Greenland ice sheets,
-representing the largest amount of continental ice (av11 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+representing the largest amount of continental ice
 
-Ocean acidification is another well-known example of
+Ocean acidification is another well-known example of
 how climate change can impact biodiversity. Increasing acidity has a wide range of potentially harmful consequences for marine organisms, shown to impact the
 immune systems of shellfish and formation of the
 skeletons of corals and specific plankton.
@@ -438,20 +402,6 @@ structure of ecosystems, affecting the services they
 provide to humans (e.g. coastal protection in the case
 of coral reefs).
 
-The next section explores how large the risks from climate change are at and above 1.5°C of warming.
-
-EUROPE
-NORTH AMERICA
-ASIA
-
-AFRICA
-SMALL ISLANDS
-CENTRAL AND SOUTH AMERICA
-
-AUSTRALASIA
-
-POLAR REGIONS
-(Arctic and Antarctic)
 
 Observed impacts attributed to climate change for
 Physical systems
@@ -479,9 +429,9 @@ Marine ecosystems
 Widespread impacts attributed to climate change based on the available scientific literature.
 Adapted from the Special Report on Global Warming of 1.5°C (IPCC).
 
-12 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C”
 
-To sum up
+
 Human activities have caused a rise in global temperatures of 1.0°C over the past 150 years.
 Global warming is likely to reach 1.5°C between 2030
 and 2052, if warming continues at the current rate.
@@ -499,28 +449,17 @@ change they are. Adaptation is made more difficult
 because we can’t predict exactly how the climate
 will change in a given place in future.
 
-School activity
-Task		 It is stated that the global temperature has already increased by approximately 1.0°C. It says further that global warming is likely
+
+It is stated that the global temperature has already increased by approximately 1.0°C. It says further that global warming is likely
 to reach 1.5°C between 2030 and 2052 if it continues to increase at the current rate.
-Find out the current warming rate.
-Hints to solve this task :
-1. Take concrete numbers : for today take 2017 – For “between 2030 and 2052” take 2036.
-2. Divide the task into different steps : Until 2017, the increase of the global mean temperature was 1.0°C.
-• There is only 0.5°C missing to reach a global warming of 1.5°C
-• An increase of 0.5°C between 2017 and 2036 corresponds to a warming rate of : 0.5°C / (2036 – 2017) = 0.026°C per year (or
-0.26°C per decade)
-Solution : the current rate of warming is approximately 0.026°C per year.
-Task		 Look at the map of countries of the European Union showing the potential vulnerability to climate change :
-https://www.espon.eu/sites/default/files/attachments/Vulnerability_ESPONclimate.pdf
-(Linking page : https://www.espon.eu/climate-2012)
 Which regions are particularly vulnerable to climate change ?
 Support your answer with clear justifications/arguments.
-13 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” 
 
-Climate change impacts at 1.5°C
+Climate change impacts at 1.5°C
 and 2°C
 
-B.
+
 
 The amount of global warming depends both on past
 emissions of greenhouse gases and on those we will
@@ -532,7 +471,6 @@ above today as opposed to 0.5°C). Specific examples
 from the Special Report on 1.5°C are given below by the
 type of impact.
 Impacts at 1.5°C vs. higher warming levels
-Extreme events
 
 Hot extremes at the local scale can increase faster than
 the average warming of the whole planet. For instance,
@@ -551,8 +489,6 @@ Southern Africa, while globally 200-300 million more
 people would be exposed to water shortages at 2°C
 than at 1.5°C. Heavy rainfall events are expected to occur more often at high latitudes in the northern hemisphere at 2°C compared to 1.5°C.
 
-Sea level rise
-
 Sea level rise by 2100 will be 10 cm higher if global
 warming reaches 2.0°C instead of 1.5°C. It would lead
 to the relocation of up to 10.4 million people [Special
@@ -567,8 +503,6 @@ Sea ice
 The Arctic would be effectively free of sea ice in summer
 a few times each decade with a 2°C warming, but only
 one or a few times a century under 1.5°C warming.
-School activity
-Task Why is the decline of Arctic sea ice extent threatening the livelihood of polar bears ?
 
 Species, ecosystems and food production
 
@@ -580,9 +514,9 @@ worse still at 2°C. Around 70 to 90% of coral reefs are
 expected to be lost at 1.5°C compared to 99% at 2°C
 of warming. Today, 30% of the corals are already damaged by the ocean temperature rise and its acidification.
 
-14 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
+Office for Climate Education IPCC Special Report “Global Warming of 1.5°C”
 
-Heat waves intensity
+Heat waves intensity
 
 At +1.5°C : Heat waves would be higher of 3°C
 At +2°C : Heat waves would be higher of 4°C
@@ -607,11 +541,11 @@ School activity
 Biodiversity loss
 
 Lost of half of the natural habitat for :
-— 4% of vertebrates at +1.5°C
+4% of vertebrates at +1.5°C
 against 8% at 2°C
-— 6% of insects at +1.5°C
+6% of insects at +1.5°C
 against 18% at +2°C
-— 8% of plants at +1.5°C
+8% of plants at +1.5°C
 against 16% at +2°C
 
 Cereal crops
@@ -642,15 +576,10 @@ Annual fish catch reduced of :
 — 1.5 millions of tonnes at +1.5°C
 — more than 3 millions of tonnes at +2°C
 
-Experiment
 
-Plan an experiment to show that CO2
+Plan an experiment to show that CO2 emissions increase ocean acidity.
 
-emissions increase ocean acidity.
-See, for example, the teaching unit “CO2 emissions and acidification of the oceans”, taken out of La main à la pâte’s
-teaching module “The ocean, my planet and me !”.
-Question What are the causes and consequences of
-coral bleaching ?
+
 
 Adaptation at 1.5°C vs. 2°C
 In combination, the greater physical changes at warming of 2°C as opposed to 1.5°C, lead to larger risks for
@@ -672,9 +601,7 @@ Free of ice :
 Impact of a global warming at +1.5°C or +2°C
 Adapted from an infographics by Le Monde
 
-15 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-POLAR REGIONS (ARCTIC AND ANTARCTIC)
 
 Risks for health
 and well-being
@@ -699,9 +626,6 @@ especially from rate of change
 Increased damages from
 river and coastal floods
 
-ASIA
-
-EUROPE
 
 Increased damages
 from extreme heat
@@ -719,8 +643,7 @@ drought-related
 water and food
 shortage
 
-THE OCEAN
-AFRICA
+
 
 Distributional
 shift and reduced
@@ -736,14 +659,11 @@ and habitat loss
 Compounded stress
 on water resources
 
-CENTRAL AND SOUTH AMERICA
+
 
 Reduced water availability and
 increased flooding and landslides
 
-AUSTRALASIA
-
-SMALL ISLANDS
 
 Loss of livelihoods,
 settlements, infrastructure, ecosystem
@@ -820,17 +740,15 @@ Very high
 Regional key risks and potential for risk reduction with current adaptation.
 Adapted from the Special Report on Global Warming of 1.5°C (IPCC).
 
-School activity
-Task Name some impacts of global warming on
+
+
 coastal ecosystems.
-Keywords : flooding, erosion, etc.
-Task Name some ecosystem services to humans.
-Keywords : pollination of crops, provision of clean water,
+flooding, erosion, etc.
+
+pollination of crops, provision of clean water,
 provision of food, carbon sinks, leisure and tourism, etc.
 
-16 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-To sum up
 A global warming of 1.5°C is not “safe” - the physical
 risks and impacts will be large. However, the risks
 will be substantially lower than at warming of 2°C.
@@ -840,26 +758,23 @@ both 1.5°C and 2°C, in which the physical changes
 in climate overwhelm our abilities to deal with them.
 The physical changes and impacts will vary by location.
 Compared to 2°C, at 1.5°C global warming :
-—— Heat waves would be less frequent and with lower peak temperatures.
-—— Sea levels would be 10 cm lower. As a
+Heat waves would be less frequent and with lower peak temperatures.
+Sea levels would be 10 cm lower. As a
 consequence, low-lying coasts and islands
 would have greater opportunities to adapt.
-—— The Arctic would effectively become sea ice free
+The Arctic would effectively become sea ice free
 in summer in the Arctic at 2°C, but would still
 have sea ice year-round at 1.5°C.
-—— The impacts on biodiversity (including biodiversity loss) for land, freshwater and coastal ecosystems would be lower. We would retain more of
+The impacts on biodiversity (including biodiversity loss) for land, freshwater and coastal ecosystems would be lower. We would retain more of
 nature’s services for humans (pollination, clean
 water etc.).
-—— The ocean would be less acidified, lowering the
+The ocean would be less acidified, lowering the
 consequent risks for marine biodiversity and
 ecosystems – including the services they provide
 to humans, such as fisheries.
 
-17 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-C.
 
-How to limit warming to 1.5°C ?
 
 The more CO2 and other greenhouse gases we release
 into the atmosphere, the more global temperatures will
@@ -868,7 +783,6 @@ atmosphere means that global temperatures will remain
 warmer for centuries to millennia even after we completely stop emitting CO2. As
 such, the goal of international climate agreements to date has not
 to reduce global temperatures
-2
 back to where they were before
 humans started warming the planet, but merely to limit
 the amount of warming induced by stabilising global
@@ -914,7 +828,7 @@ Fortunately, the Paris Agreement has a mechanism that
 allows contribution to raise their level of ambition for
 emission reductions over time.
 
-Overshoot
+
 There are two types of paths that global temperature
 can follow over the coming decades to limit warming
 to a certain amount (e.g. 1.5°C) : ones in which global
@@ -929,9 +843,8 @@ without overshoot, due to the different rates of change
 and the different maximum warming level reached. The
 longer and larger the overshoot, the greater the risks.
 
-18 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-Emissions paths to 1.5°C
+Emissions paths to 1.5°C
 Given that we would need to effectively reduce CO2
 emissions to zero in order to limit warming to a given
 level – the question becomes one of how rapidly we
@@ -968,7 +881,6 @@ Switching to electric vehicles would bring other benefits
 besides reducing climate impacts, including improving
 air quality in cities. It’s estimated that the additional
 emission reduction actions to limit warming to 1.5°C
-
 compared to 2°C would reduce premature deaths from
 air pollution by 100-200 million over the course of this
 century.
@@ -980,7 +892,6 @@ the atmosphere. Major investments will be needed to
 realise these transitions, including in developing countries. These could be complemented by government
 legalisation such energy standards or a price on carbon.
 
-To sum up
 To stabilise global warming at 1.5°C, we need to
 reduce our CO2 emissions to be effectively zero
 in the next 30 years. This would involve large
@@ -1000,12 +911,12 @@ and are currently heading for 3-4°C warming by
 the right direction in lots of these areas but we
 would need to do more, faster.
 
-19 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-Addressing climate change and
+
+Addressing climate change and
 sustainability simultaneously
 
-D.
+
 
 Even without factoring in climate change, we face tremendous global challenges over the coming decades.
 The number of people living in poverty today is estimated to be 1.5 billion. At the same time, global population is growing rapidly, predicted to rise from 7.6 billion
@@ -1015,7 +926,6 @@ the next three decades.
 The United Nations has developed a set of 17 Sustainable development goals (SDGs 1) and corresponding
 targets to address, major global challenges including
 poverty, hunger, health, education, inequality, food and
-
 water security, energy access, economic development,
 peace and justice, climate change and biodiversity. In
 order to achieve these goals (including tackling climate
@@ -1026,12 +936,9 @@ impacts of climate change act to exacerbate poverty.
 Climate change and sustainable development are thus
 intricately coupled and need to be considered together.
 
-The 17 Sustainable development Goals set by the United Nations in 2015
-United Nations – Sustainable Development Goals
-1 https://www.un.org/sustainabledevelopment/sustainable-development-goals/
-20 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-In general, the countries that have contributed least to
+
+In general, the countries that have contributed least to
 the problem in terms of their total carbon emissions,
 face some of the greatest risks.
 Likewise, sustainable development supports, and often enables, the fundamental
@@ -1047,31 +954,13 @@ all people in the context of sustainable development, especially in developing c
 To sum up
 With clear benefits to people and natural ecosystems, limiting global warming to 1.5°C compared to 2°C could go hand in hand with ensuring a more sustainable and equitable society.
 Systems transition requires :
-—— More investments in adaptation and mitigation,
-—— Behavior changes,
-—— Acceleration of technological innovation.
+More investments in adaptation and mitigation,
+Behavior changes,
+Acceleration of technological innovation.
 Sustainable development supports fundamental
-societal and systems transition and transformation. The international cooperation is essential.
 
-School activity
-Task
 
-How much is 52–58 Gt CO2 eq yr –1 ?
 
-Check the World Bank page on greenhouse gas emissions : https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE
-—— What is the total amount of the World’s GHG emissions (in CO2 eq) ? (Answer : 53,5 Gt CO2 eq)
-—— What is the total amount of your country’s GHG emissions (in CO2 eq) ? (France : 0,5 Gt CO2 eq)
-—— What are the GHG emissions per capita for your country (in CO2 eq per capita) ? (France : 0,5 Gt CO2 eq divided 65 million inhabitants
-= 7.7 t CO2 eq per capita)
-Task		 Look up your countries NDC’s and estimate whether they will be fulfilled or whether the goals will be missed.
-Question		 What is low GHG-intensive food consumption ?
-Task		 Explain why/how afforestation and bioenergy supply can compete with food production ?
-Examples for crops for bioenergy : maize, palm oil.
-Task		 Find reasons why the Sustainable Development Goals 1 (no poverty) and 10 (reduced inequalities) are so important for limiting
-global warming to 1.5°C.
-21 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
-
-Glossary
 Adaptation
 The process of adjustment to actual or expected climate
 and its effects. In human systems, adaptation seeks to
@@ -1157,17 +1046,17 @@ https://www.youtube.com/watch ?v=6yiTZm0y1YA&feature=youtu.be/
 This video is also available in other languages : http://www.climatechange2013.org/
 https://threadreaderapp.com/thread/1049626179508953088.html
 
-23 | Office for Climate Education IPCC Special Report “Global Warming of 1.5°C” — Summary for Teachers
 
-“ Parties should take measures [...]
-to enhance climate education ”,
+
+"Parties should take measures [...]
+to enhance climate education”,
 states Art.12 of the Paris Agreement.
-“ Educating the present and future
+“Educating the present and future
 generations about climate change,
 and teaching them to act with a
 critical mind and a hopeful heart, is
 essential for the future of humanity. Science education must meet
-the challenge [...] ”, recommend
+the challenge [...]”, recommend
 the 113 science Academies of the
 world in their recent Statement on
 Climate Change and Education.
@@ -1204,11 +1093,5 @@ public and private funds provided
 by French and German partners. It
 will amplify its action in proportion
 with its resources and develop partnerships, especially with IPCC and
-IAP for Science – the global federation of Science Academies.
-http://oce.global
-contact@oce.global
-Fondation La main à la pâte
-43 rue de Rennes
-75006 Paris – France
+IAP for Science
 
-
