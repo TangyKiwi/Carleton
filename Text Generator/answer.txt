@@ -1,0 +1,15 @@
+testsheet.txt
+R
+F
+F
+R
+R
+F
+
+communism.txt
+F
+F
+F
+R
+R
+R
