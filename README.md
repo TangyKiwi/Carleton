@@ -23,3 +23,5 @@ Biased read --> removes all sentences that don't follow the given biased. Uncomm
 WARNING: This will be slow depending on the size of your file(s).
 
 ## Results
+The bounding score calculated by generating random guesses for 1,000,000 tries is 1.5. Therefore if the average score is above or equal to this bound, the project is a success. After testing multiple partcipants with 6 texts, either from communism.txt or global.txt, we conclude that the generated text can effectively pass as human written. Our average test score was 1.5625, meaning overall participants couldn't tell which texts were real or fake due to their similarity, and had to guess. Our testing table is displayed below. Green highlights means that a fake text was passed as a real one, yellow for a real text mistaken as a fake one, and red for a fake text correctly identified as a fake.  
+![Screen Shot 2019-07-30 at 3 18 02 PM](https://user-images.githubusercontent.com/32970087/62162168-42381900-b2dd-11e9-872f-069ec6545cdd.png)
