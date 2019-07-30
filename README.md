@@ -26,8 +26,13 @@ WARNING: This will be slow depending on the size of your file(s).
 The bounding score calculated by generating random guesses for 1,000,000 tries is 1.5. Therefore if the average score is above or equal to this bound, the project is a success. After testing multiple partcipants with 6 texts, either from communism.txt or global.txt, we conclude that the generated text can effectively pass as human written. Our average test score was 1.5625, meaning overall participants couldn't tell which texts were real or fake due to their similarity, and had to guess. Our testing table is displayed below. Green highlights means that a fake text was passed as a real one, yellow for a real text mistaken as a fake one, and red for a fake text correctly identified as a fake.  
   
 ![Screen Shot 2019-07-30 at 3 18 02 PM](https://user-images.githubusercontent.com/32970087/62162168-42381900-b2dd-11e9-872f-069ec6545cdd.png)
-
+  
+Add screen shot of finalized research poster  
+  
 ## References
+https://arxiv.org/pdf/1708.05148.pdf  
+https://cs224d.stanford.edu/papers/advances.pdf   
+https://www.aclweb.org/anthology/H89-2078  
 
 ## Acknowledgements
 Thanks to Caroline Lu, Charles Nykamp, Claire Wen, Dae’ Kevion Dicason, Daisy Wang, Justice Osondu, Kentron White, Michael Schultz, Nigel Webb, Rashad Philizaire, Roland Liu and Teresa Luo, Sabrina Ross, Serena Arora, and Sujan Arora for participating in our experiment.
