@@ -3,6 +3,7 @@ import math
 import nltk
 from nltk.corpus import opinion_lexicon
 
+directory = "gen"#"Text/PG61_text.txt (Communist Manifesto)"
 reports = ["sr15_spm_final",
            "ST1.5_OCE_LR",
            "climate-change-2018"]
