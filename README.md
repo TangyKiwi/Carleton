@@ -33,7 +33,7 @@ Add screen shot of finalized research poster
 [1708.05148](https://arxiv.org/pdf/1708.05148.pdf)  
 [CS224D Stanford](https://cs224d.stanford.edu/papers/advances.pdf)   
 [White Paper on NLP](https://www.aclweb.org/anthology/H89-2078)  
-Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc. [NLTK](https://www.nltk.org/)  
+[Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.](https://www.nltk.org/)  
 
 ## Acknowledgements
 Thanks to Caroline Lu, Charles Nykamp, Claire Wen, Dae’ Kevion Dicason, Daisy Wang, Justice Osondu, Kentron White, Michael Schultz, Nigel Webb, Rashad Philizaire, Roland Liu and Teresa Luo, Sabrina Ross, Serena Arora, and Sujan Arora for participating in our experiment.
